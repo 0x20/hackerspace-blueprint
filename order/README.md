@@ -10,6 +10,6 @@ A description of the decision making models used in the different enteties of th
 
 The flow how decisions are made in the space.
 
-# [Do-ocracy](do-ocracy)
+# [Do-ocracy](do-ocracy.md)
 
 The definition and boundraries of the Do-ocracy
