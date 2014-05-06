@@ -31,7 +31,7 @@ The required 100% consensus also means that a very small minority can block a de
 ##### week 2: 
 the point is discussed again but now a rough consensus of %80 is applied to reach a decision (https://en.wikipedia.org/wiki/Rough_consensus). If the small minority of last week was not able to convince enough fellow members the decision will be passed with rough consensus of %80. When their viewpoint make enough sense to fellow members, critical mass must be found to reach a new compromise. All members joining the discussion must strive to reach the rough consensus, to build the compromise. Not doing so is not being excellent.
 ##### week 3:
-when all has failed, or the problem is to controversial, but a decision is still required the below point system will be used to reach a decision.
+when all has failed, or the problem is too controversial, but a decision is still required the below point system will be used to reach a decision.
 
 ### Point system
 
