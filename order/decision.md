@@ -36,13 +36,15 @@ when all has failed, or the problem is too controversial, but a decision is stil
 ### Point system
 
 The point system is a **last-resort** option. This should not be the general process of resolving conflicts. If the space is starting to use this too much, that means that there is a structural problem in the group dynamic.
+
 **The point system has a few basic rules:**
-     - each voter has a certain number of points that he can distribute over the different proposals
-     - The proposal with the most points wins
-     - In case of tie; revote.
-     - ** Number of points per voter  = ** `(#_of_options * 2 ) + 1 `
-     - Results should be given to the group in binary format: what proposal won and what lost. This is to strengten the support of the decision.
-This decision is now 
+  * each voter has a certain number of points that he can distribute over the different proposals
+  * The proposal with the most points wins
+  * In case of tie; revote.
+  * ** Number of points per voter  = ** `(#_of_options * 2 ) + 1 `
+  * Results should be given to the group in binary format: what proposal won and what lost. This is to strengten the support of the decision.
+  
+
 "No decision" is worse than a "bad decision". Conflict has to be solved eventually. That is why there is this last-resort option. However, we want to discourage people from blocking consensus. The point system has the following advantages:
     - The outcome is not always clear because balanced ideas can still win, even if the minority would vote for them.
     - The minority will gain from convincing the majority that their idea is not completely ridiculous.
