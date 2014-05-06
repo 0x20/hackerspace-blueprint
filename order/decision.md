@@ -1,1 +1,86 @@
-.keepalive
+# Decision making models
+
+For each layer there is a specific decision making model. This page describes them.
+
+## Core Group
+
+* the decision making model can be decided at runtime by the current board. The board is supposed to be a group that is sync'ed so the decision making process should be a natural flow. The below is outlined as a backup in case a decision can not be made.
+* voting with a 2/3 majority.
+* therefore the board must consist of an uneven amount of members: 3, 5, 7, ...
+## Members group
+* When a conflict/problem can not be resolved between individuals or when it impacts the group, a decision is required by the group. Below outlines the decision making model to be used by this group.
+* 
+### Timeline:
+
+week 0: the point is put on the agenda of the weekly meeting and is announced on the mailinglist. This needs to be at least 3 days in advance.
+week 1: the point is discussed in group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because consensus comes with characterics that benefits the hackerspace:
+  * encourages discussion
+  * forced to listen to apposing ideas that can give new insights
+  * they can bring smarter compromises
+  * http://en.wikipedia.org/wiki/Consensus
+The required 100% consensus also means that a very small minority can block a decision. That is a desired feature but it comes with a responsibility. When a small minority or even an individual feels very strongly that a proposed decision is not correct they have the option to block the decision. This does not block the decision but buys him 1 week of time. During that week the minority has the task to convince fellow members of their viewpoint.
+week 2: the point is discussed again but now a rough consensus of %80 is applied to reach a decision (https://en.wikipedia.org/wiki/Rough_consensus). If the small minority of last week was not able to convince enough fellow members the decision will be passed with rough consensus of %80. When their viewpoint make enough sense to fellow members, critical mass must be found to reach a new compromise. All members joining the discussion must strive to reach the rough consensus, to build the compromise. Not doing so is not being excellent.
+week 3: when all has failed, or the problem is so controversial but a decision is required the below point system will be used to reach a decision.
+
+### Point system
+
+The point system is a **last-resort** option. This should not be the general process of resolving conflicts. If the space is starting to use this too much, that means that there is a structural problem in the group dynamic.
+**The point system has a few basic rules:**
+     - each voter has a certain number of points that he can distribute over the different proposals
+     - The proposal with the most points wins
+     - In case of tie; revote.
+     - ** Number of points per voter  = ** `(#_of_options * 2 ) + 1 `
+     - Results should be given to the group in binary format: what proposal won and what lost. This is to strengten the support of the decision.
+This decision is now 
+"No decision" is worse than a "bad decision". Conflict has to be solved eventually. That is why there is this last-resort option. However, we want to discourage people from blocking consensus. The point system has the following advantages:
+    - The outcome is not always clear because balanced ideas can still win, even if the minority would vote for them.
+    - The minority will gain from convincing the majority that their idea is not completely ridiculous.
+    - People have the ability to vote for, and thereby support, multiple ideas.
+In the point system, every voter gets some points that he can distribute between the different options.
+
+#### Examples
+
+| Vote without points        |  Points to A                    | Points to B  |
+| ------------------------------- |:------------------------------:| --------------:|
+| A              |       3             |         2    |
+| A              |         4                     |1   |
+| A              |                      3       |  2  |
+| A              |                       3    |  2    |
+| A              |                         4   |  1   |
+| A              |                         3  | 2     |
+| B              |                         2 |  3     |
+| B              |                          0|  5     |
+| B              |                           1  |  4  |
+| B              |                          1   | 4   |
+| TOTAL    |     24                    | **26**   |
+
+As you can see in this example, a less-extreme proposal that, on first sight, has the minority of the votes, can still win. This gives the minority the incentive to come up with moderate ideas that everybode can agree with.
+
+| Vote without points        |  Points to A                    | Points to B  |
+| ------------------------------- |:------------------------------:| --------------:|
+| A              |       4             |         1    |
+| A              |         5                    | 0   |
+| A              |                      5       |  0  |
+| A              |                       4    |  1   |
+| A              |                         5   |  0 |
+| A              |                         5  | 0    |
+| B              |                         4 |  1     |
+| B              |                          0|  5     |
+| B              |                           0  |  5  |
+| B              |                          0   | 5   |
+| TOTAL    |   **32**                    | 18   |
+
+However, extreme ideas will not be able to "win". With extreme ideas, the outcome of this model will be the same als with a +50% majority.
+
+## Individual
+
+* Every individual has his/her own responsibility's as a member of the group, and thus requires his/her own decision model.
+* An individual is free to choose their own decision model, but keep in mind that you are part of a group.
+> do-ocracy.md
+
+# Do-ocracy
+
+A do-ocracy is an organizationonal structure in which individuals choose to pick up roles and execute tasks by themselves, rather than getting them appointed by others.
+Responsilbilities are attach to people who do the work, rather than to the elected/selected officials.
+Doing a task is in itself justification for you being the person who does that job.
+Source: http://www.communitywiki.org/en/DoOcracy
