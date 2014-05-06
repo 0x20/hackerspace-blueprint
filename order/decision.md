@@ -3,24 +3,28 @@
 For each layer there is a specific decision making model. This page describes them.
 
 ## Core Group
-
-* the decision making model can be decided at runtime by the current board. The board is supposed to be a group that is sync'ed so the decision making process should be a natural flow. The below is outlined as a backup in case a decision can not be made.
+The decision making model can be decided at runtime by the current board. The board is supposed to be a group that is sync'ed so the decision making process should be a natural flow. The below is outlined as a backup in case a decision can not be made.
 * voting with a 2/3 majority.
 * therefore the board must consist of an uneven amount of members: 3, 5, 7, ...
-## Members group
-* When a conflict/problem can not be resolved between individuals or when it impacts the group, a decision is required by the group. Below outlines the decision making model to be used by this group.
-* 
-### Timeline:
 
-week 0: the point is put on the agenda of the weekly meeting and is announced on the mailinglist. This needs to be at least 3 days in advance.
-week 1: the point is discussed in group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because consensus comes with characterics that benefits the hackerspace:
+## Members group
+When a conflict/problem can not be resolved between individuals or when it impacts the group, a decision is required by the group. Below outlines the decision making model to be used by this group.
+
+##### week 0: 
+the point is put on the agenda of the weekly meeting and is announced on the mailinglist. This needs to be at least 3 days in advance.
+##### week 1: 
+the point is discussed in group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because consensus comes with characterics that benefits the hackerspace:
   * encourages discussion
   * forced to listen to apposing ideas that can give new insights
   * they can bring smarter compromises
   * http://en.wikipedia.org/wiki/Consensus
-The required 100% consensus also means that a very small minority can block a decision. That is a desired feature but it comes with a responsibility. When a small minority or even an individual feels very strongly that a proposed decision is not correct they have the option to block the decision. This does not block the decision but buys him 1 week of time. During that week the minority has the task to convince fellow members of their viewpoint.
-week 2: the point is discussed again but now a rough consensus of %80 is applied to reach a decision (https://en.wikipedia.org/wiki/Rough_consensus). If the small minority of last week was not able to convince enough fellow members the decision will be passed with rough consensus of %80. When their viewpoint make enough sense to fellow members, critical mass must be found to reach a new compromise. All members joining the discussion must strive to reach the rough consensus, to build the compromise. Not doing so is not being excellent.
-week 3: when all has failed, or the problem is so controversial but a decision is required the below point system will be used to reach a decision.
+
+The required 100% consensus also means that a very small minority can block a decision. That is a desired feature but it comes with a responsibility. When a small minority or even an individual feels very strongly that a proposed decision is not correct they have the option to block a decision. This does not stop a decision but gives the opposers 1 week of time. During that week the minority has the task to convince fellow members of their viewpoint.
+
+##### week 2: 
+the point is discussed again but now a rough consensus of %80 is applied to reach a decision (https://en.wikipedia.org/wiki/Rough_consensus). If the small minority of last week was not able to convince enough fellow members the decision will be passed with rough consensus of %80. When their viewpoint make enough sense to fellow members, critical mass must be found to reach a new compromise. All members joining the discussion must strive to reach the rough consensus, to build the compromise. Not doing so is not being excellent.
+##### week 3:
+when all has failed, or the problem is to controversial, but a decision is still required the below point system will be used to reach a decision.
 
 ### Point system
 
