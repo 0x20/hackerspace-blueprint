@@ -10,6 +10,13 @@ The decision making model can be decided at runtime by the current board. The bo
 ## Members group
 When a conflict/problem can not be resolved between individuals or when it impacts the group, a decision is required by the group. Below outlines the decision making model to be used by this group.
 
+| PLAN/TIME   |  ACTION | VOTE |
+| ------------------------------- |:------------------------------:| --------------:|
+| Week 0  |     Put problem on agenda 3 days before meeting   |        no vote    |
+| Week 1  |     Discuss in grop, listen, learn and build compromise      | 100% consensus   |
+| Week 2  |     Discuss in grop, listen, learn and build compromise      |  80% consensus |
+| Week 3  |     Discuss in grop, listen, learn and build compromise     |  Point system    |
+
 ##### week 0: 
 the point is put on the agenda of the weekly meeting and is announced on the mailinglist. This needs to be at least 3 days in advance.
 ##### week 1: 
