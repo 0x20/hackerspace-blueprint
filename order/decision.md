@@ -89,11 +89,3 @@ However, extreme ideas will not be able to "win". With extreme ideas, the outcom
 
 * Every individual has his/her own responsibility's as a member of the group, and thus requires his/her own decision model.
 * An individual is free to choose their own decision model, but keep in mind that you are part of a group.
-> do-ocracy.md
-
-# Do-ocracy
-
-A do-ocracy is an organizationonal structure in which individuals choose to pick up roles and execute tasks by themselves, rather than getting them appointed by others.
-Responsilbilities are attach to people who do the work, rather than to the elected/selected officials.
-Doing a task is in itself justification for you being the person who does that job.
-Source: http://www.communitywiki.org/en/DoOcracy
