@@ -13,9 +13,9 @@ When a conflict/problem can not be resolved between individuals or when it impac
 | PLAN/TIME   |  ACTION | VOTE |
 | ------------------------------- |:------------------------------:| --------------:|
 | Week 0  |     Put problem on agenda 3 days before meeting   |        no vote    |
-| Week 1  |     Discuss in grop, listen, learn and build compromise      | 100% consensus   |
-| Week 2  |     Discuss in grop, listen, learn and build compromise      |  80% consensus |
-| Week 3  |     Discuss in grop, listen, learn and build compromise     |  Point system    |
+| Week 1  |     Discuss in group, listen, learn and build compromise      | 100% consensus   |
+| Week 2  |     Discuss in group, listen, learn and build compromise      |  80% consensus |
+| Week 3  |     Discuss in group, listen, learn and build compromise      |  Point system    |
 
 ##### week 0: 
 the point is put on the agenda of the weekly meeting and is announced on the mailinglist. This needs to be at least 3 days in advance.
