@@ -22,7 +22,8 @@ no people can take decision without needing to take responsibility for it.
 
 # Individual
 
-* The individuals have to be excellent *
+* The individuals have to be excellent
  - Follow [Do-ocracy](do-ocracy.md)
  - Actively try to fix problems
  - Maintain personal safety and that of others
+ - To follow and enforce the [code of conduct](../pact/README.md).
