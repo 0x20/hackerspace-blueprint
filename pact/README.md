@@ -22,6 +22,7 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
 
 ### Throwing things away
 * Some things that seem a useless waste of space to you, might be very valuable to other people. When you throw things away, it has to be decided upon by the group, via the decision model of the group.
+* Every member of the space gets one (1) box where they can leave their stuff, if your project doesn't fit in that box, please don't leave it unattended in the space.
 
 ### Tool Maintance
 * When you are using tools/infrastructure from the space, you are effectively borrowing that item from the community. 
