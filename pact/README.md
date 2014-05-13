@@ -2,6 +2,9 @@
 
 The pact == code of conduct. 
 
+**Note:** For now the goal of this page is to collect ideas that YOU think should be part of the
+code of conduct for the space. Each of the points will be agreed upon using [group decision model](decision.md#members-group).
+
 Basically we've come the observation that "*use common sense*" and "*be excellent*" don't always suffice as a *code of conduct*. This is because different people have different realities, different values and morals. We think this diversity is a good thing. However in a communal context where these realities clash with eachother it creates friction and conflict. 
 
 So the need for basic rules arose, this is an attempt to define these rules.
