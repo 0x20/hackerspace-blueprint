@@ -16,7 +16,7 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
 
 ### Cleaning
 * Keep the dishes clean: when using the dishes clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder. 
-* Keep the desks clean, feel free to use the deskspace for your stuff, you can leave your stuff on the desk when you just 'pop out for some food', but leave a note stating wshen you'll be back. _Do Not_ leave it for the next morning. 
+* Keep the desks clean, feel free to use the deskspace for your stuff, you can leave your stuff on the desk when you just 'pop out for some food', but leave a note stating when you'll be back. _Do Not_ leave it for the next morning. 
 * Remove empty packaging, from food or beverages. If you are the last person to leave the space, it's your resposibility to clean up. If you see people leaving, please alert them if they have left their trash in the space.
 * Every once in a while there will be a cleaning day in the space, as an good upstanding member of the community you should attend one of these at least once quarterly. Lots of hands make light work.
 
