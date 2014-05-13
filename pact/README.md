@@ -15,7 +15,7 @@ These basic rules are a practical emanation the two basic rules:
 
 Members are encouraged to apply the two basic rules to the best of their abilities. *Be excellent to eachother* implies treating others the way you want to be treated, which is considered by almost all moral systems as [the golden rule](http://en.wikipedia.org/wiki/Golden_Rule).
 
-## Space maintance
+## Space maintenance
 
 ### Cleaning
 * Keep the dishes clean: when using the dishes clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder. 
