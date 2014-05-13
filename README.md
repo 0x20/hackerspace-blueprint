@@ -15,13 +15,22 @@ We knew that, in order to fix this, we needed a system that gets the best out of
 
 This is divided into 3 parts:
 
-## [1. The Order](https://github.com/0x20/HTH/tree/master/order)
+#### [1. The Order](https://github.com/0x20/HTH/tree/master/order)
 This is a description of the system that will run our hackerspace. You will find the different decision processes and the different entities of the organization.
 
-## [2. The Pact](https://github.com/0x20/HTH/tree/master/pact)
+#### [2. The Pact](https://github.com/0x20/HTH/tree/master/pact)
 This is the Code of Conduct. This is intended to be a very broad enforced guideline of how members should behave. 
 
-## [3. The Legacy](https://github.com/0x20/HTH/tree/master/legacy)
+#### [3. The Legacy](https://github.com/0x20/HTH/tree/master/legacy)
 This is all the information we collected during the HTH meetings. This should be used as a cypher to understand the Pact itself. This is to avoid incorrect interpretations of the order and the pact
+
+#### Naming things
+
+**The order**
+
+*Because [naming things is very hard](http://xkcd.com/910/) we decided to use the names from the ["Silo" series of Hugh Howey](http://en.wikipedia.org/wiki/Silo_%28series%29). In the series, civilization has to survive in an underground silo. In the series, the order is a book that describes how the silos should be managed. The order is clearly "bad" because all control in an infringment to the freedom of the people. Still, if you progress further in the series, you see that the order is still a good way to manage the people.*
+
+
+
 
 
