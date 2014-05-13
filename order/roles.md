@@ -2,7 +2,9 @@
 
 * The core group enables the hacker environment to exist. 
 * The core group should be as "thin layer" as possible. Core group should operate mostly in the background. If the core group does a good job,     they should be invisible.
-* The core group are the same people that are appointed board-member during the general assembly. No non-board members are allowed so that each    person that has a vote shares equal responsibility.
+* In the current legal structure (VZW) the board members carry the end-responsible. So the core group can only contains the same people that are appointed board-member during the general assembly. This way the people taking the decision must also take the responsible and vice-versa,
+no people can take decision without needing to take responsibility for it.
+
  - Finance     
  - Core infrastructure  
  - `if ($conflict && ( $conflict.type == "harrasment" || $conflict.type == "safety" ))`
