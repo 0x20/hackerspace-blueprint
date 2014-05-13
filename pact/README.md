@@ -38,3 +38,11 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
 * If you  are not trained to use tool $FOO, don't use tool $FOO but ask an expert to teach you first.
 * If you use one of the public workstations, please shut it off when you are done. 
 * if you use the printer, please deposit some cash to pay for consumables
+
+## Social behavior 
+* When in doubt if you're doing the right thing, you probably aren't.
+* People are trying to concentrate in here so 
+ * Mind your voice, volume. If you are talking to someone on the other side of the space everyone inbetween can hear you, move closer.
+ * We know you like $FOO music, but use a headphione or keep the volume low.
+
+
