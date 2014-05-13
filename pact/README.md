@@ -21,7 +21,7 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
 * Every once in a while there will be a cleaning day in the space, as an good upstanding member of the community you should attend one of these at least once quarterly. Lots of hands make light work.
 
 ### Throwing things away
-*Some things that seem a useless waste of space to you, might be very valuable to other people. When you throw things away, it has to be decided upon by the group, via the decision model of the group.
+* Some things that seem a useless waste of space to you, might be very valuable to other people. When you throw things away, it has to be decided upon by the group, via the decision model of the group.
 
 ### Tool Maintance
 * When you are using tools/infrastructure from the space, you are effectively borrowing that item from the community. 
