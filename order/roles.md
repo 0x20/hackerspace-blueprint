@@ -1,9 +1,8 @@
 # Core group
 
 * The core group enables the hacker environment to exist. 
-* The core group should be as "thin layer" as possible. Core group should operate mostly in the background. If the core group does a good job, they should be invisible.
-* The core group are the same people that are appointed board-member during the general assembly. No non-board members are allowed so that each person that has a vote shares equal responsibility.
-
+* The core group should be as "thin layer" as possible. Core group should operate mostly in the background. If the core group does a good job,     they should be invisible.
+* The core group are the same people that are appointed board-member during the general assembly. No non-board members are allowed so that each    person that has a vote shares equal responsibility.
  - Finance     
  - Core infrastructure  
  - `if ($conflict && ( $conflict.type == "harrasment" || $conflict.type == "safety" ))`
