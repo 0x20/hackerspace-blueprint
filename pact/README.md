@@ -37,3 +37,4 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
 * So when using something, clean it afterwards and put it back in it's place.
 * If you  are not trained to use tool $FOO, don't use tool $FOO but ask an expert to teach you first.
 * If you use one of the public workstations, please shut it off when you are done. 
+* if you use the printer, please deposit some cash to pay for consumables
