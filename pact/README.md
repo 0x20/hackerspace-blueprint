@@ -41,6 +41,8 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
 
 ## Social behavior 
 * When in doubt if you're doing the right thing, you probably aren't.
+
+### Noise
 * People are trying to concentrate in here so 
  * Mind your voice, volume. If you are talking to someone on the other side of the space everyone inbetween can hear you, move closer.
  * We know you like $FOO music, but use a headphone or keep the volume low.
