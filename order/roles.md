@@ -8,6 +8,7 @@ no people can take decision without needing to take responsibility for it.
   * Finance     
   * Core infrastructure  
   * `if ($conflict && ( $conflict.type == "harrasment" || $conflict.type == "safety" ))`
+  *     => in human language = If the conflict AND conflict type is harrasment OR safety
       
 # Group Of Members
 
