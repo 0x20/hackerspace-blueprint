@@ -57,4 +57,4 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
 ### Network/security
 * Just leave other peoples stuff alone, don't post "*funny*" social network statusupdates on unattended logged in computers.
 * Don't sniff the network / no ssl-strip /  rougue dhcp / random script-kiddo stuff. It been done before, it's lame.
-* Don't congest the network with (legal) torrenting, just be sop diligent we don't have to write an aup.
+* Don't congest the network with (legal) torrenting, just behave nicely, so we don't have to write an aup.
