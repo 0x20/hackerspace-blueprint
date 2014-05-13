@@ -43,6 +43,8 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
 * When in doubt if you're doing the right thing, you probably aren't.
 * People are trying to concentrate in here so 
  * Mind your voice, volume. If you are talking to someone on the other side of the space everyone inbetween can hear you, move closer.
- * We know you like $FOO music, but use a headphione or keep the volume low.
-
+ * We know you like $FOO music, but use a headphone or keep the volume low.
+ * Don't be afraid to ask if you are not intruding/disturbing.
+ * Some moments are more 'loud' than others, so it's not always easy to follow. Sometimes "libary/office-rules" apply,
+   sometimes workshop-rules and sometimes bar-rules. When in doubt, check the other members.
 
