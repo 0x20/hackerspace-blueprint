@@ -41,6 +41,7 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
 
 ## Social behavior 
 * When in doubt if you're doing the right thing, you probably aren't.
+* Just don't be *that* guy. 
 
 ### Noise
 * People are trying to concentrate in here so 
@@ -50,3 +51,7 @@ Members are encouraged to apply the two basic rules to the best of their abiliti
  * Some moments are more 'loud' than others, so it's not always easy to follow. Sometimes "libary/office-rules" apply,
    sometimes workshop-rules and sometimes bar-rules. When in doubt, check the other members.
 
+### Network/security
+* Just leave other peoples stuff alone, don't post "*funny*" fb statusupdates on unattended logged in computers.
+* Don't sniff the network / no ssl-strip /  rougue dhcp / random script-kiddo stuff. It been done before, it's lame.
+* Don't congest the network with (legal) torrenting, just be sop diligent we don't have to write an aup.
