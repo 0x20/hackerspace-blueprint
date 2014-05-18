@@ -24,7 +24,7 @@ There is a clear distinction between Personal vs Space projects.
  - The property of the project is considered personal property and 2.1 applies to it.
  - You decide what happens to the end-result of the project
 
- **Space**
+**Space**
  - Decisions goes through the [Flow](../order/flow.md)
  - The property of the project is considered space property and 2.2 applies to it.
  - The Group decides what happens to the end-result of the project
@@ -41,7 +41,7 @@ All personal property that is not in a members box has to be labeled (including 
 
 ### 2.2 Space Property
 
-### 2.2.1 Using space property
+#### 2.2.1 Using space property
 
  * When you are using tools/infrastructure from the space, you are effectively borrowing that item from the community. 
  * Return borrowed items promptly in the same or better condition than when borrowed.
@@ -51,7 +51,7 @@ All personal property that is not in a members box has to be labeled (including 
  * If you use one of the public workstations, please shut it off when you are done. 
  * if you use the printer, please deposit some cash to pay for consumables
 
-## 2.2.2 Space property that requires you to follow a workshop before use
+**Space property that requires you to follow a workshop before use**
  
  * 3D printer
 
