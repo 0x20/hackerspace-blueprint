@@ -21,21 +21,23 @@ There is a clear distinction between Personal vs Space projects.
 
 **Personal**
  - You have full control over what happens to the project.
- - If somebody breaks something, he has to fully reïmburse your loss.
  - The property of the project is considered personal property and 2.1 applies to it.
+ - You decide what happens to the end-result of the project
 
  **Space**
  - Decisions goes through the [Flow](../order/flow.md)
- - 
+ - The property of the project is considered space property and 2.2 applies to it.
  - The Group decides what happens to the end-result of the project
 
-## 2 Property 
+## 2 Property and tools
 
 ### 2.1 Personal Property
 
-Only members are allowed to have personal property in the space. You of the space get one box where you can leave your stuff. If you need more space for your projects, bring it up in a group meeting.
+Only members are allowed to have personal property in the space. You get one box where you can leave your stuff. If you need more space for your projects, bring it up in a group meeting.
 
-All personal property, including tools and machines, that is not in a members box has to be labeled.
+If you break personal property of another member, you have to fully reïmburse the member's losses.
+
+All personal property that is not in a members box has to be labeled (including tools and machines).
 
 ### 2.2 Space Property
 
@@ -48,6 +50,10 @@ All personal property, including tools and machines, that is not in a members bo
  * If you  are not trained to use tool $FOO, don't use tool $FOO but ask an expert to teach you first.
  * If you use one of the public workstations, please shut it off when you are done. 
  * if you use the printer, please deposit some cash to pay for consumables
+
+## 2.2.2 Space property that requires you to follow a workshop before use
+ 
+ * 3D printer
 
 #### 2.2.2 Damaging or losing space property
 
