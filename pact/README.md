@@ -57,7 +57,7 @@ All personal property that is not in a members box has to be labeled (including 
 
 #### 2.2.2 Damaging or losing space property
 
-If you damage or lose space property, you to notice the Group Of Members immediately via the mailinglist. In the mail, you say what happend and if/how you will fix it. If the Group Of Members do not agree to this, they will have to put it forward on the next meeting.
+If you damage or lose space property, you have to notice the Group Of Members immediately via the mailinglist. In the mail, you say what happend and if/how you will fix it. If the Group Of Members do not agree to this, they will have to put it forward on the next meeting.
 
 #### 2.2.3 Taking space property out of the space
 
@@ -68,7 +68,7 @@ Only members are allowed to take space property out of the space. If you takes s
 ### 3.1 Cleaning
 
 * Keep the dishes clean: when using the dishes clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder. 
-* Keep the desks clean, feel free to use the deskspace for your stuff, you can leave your stuff on the desk when you just 'pop out for some food', but leave a note stating when you'll be back. _Do Not_ leave it there untill the next morning. 
+* Keep the desks clean, feel free to use the deskspace for your stuff, you can leave your stuff on the desk when you just 'pop out for some food', but leave a note stating when you'll be back. _Do Not_ leave it thoere untill the next morning. 
 * Remove empty packaging, from food or beverages. 
 * Every once in a while there will be a cleaning day in the space, as an good upstanding member of the community you should attend one of these at least once quarterly. Lots of hands make light work.
 
