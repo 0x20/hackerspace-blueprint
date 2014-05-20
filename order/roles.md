@@ -16,7 +16,7 @@ This does not mean that the core group has to do everything themselves. They can
 
 The core group can temporarely ban people from the space as a means of enforcing their responsibility. If they do that, however, they have to send a notice to all members, explaining what they did and why. In the next meeting, the problem has to be discussed so the group can decide upon a permanent solution.
 
-In certain sensitive cases, like harrasment and conflict between individual members, it is advised that the core group sits down with the concerning parties and tries to find a resolution. When a resolution is found, the core group proposes the resolution to the Group Of Members. The Group Of Members then has to approve the proposal.
+In certain sensitive cases, like harrasment and conflict between individual members, it is advised that the core group sits down with the concerning parties and tries to find a resolution. When a resolution is found, and it concerns the Group Of Members, the core group proposes the resolution to the Group Of Members. The Group Of Members then has to approve the proposal.
       
 # Group Of Members
 
