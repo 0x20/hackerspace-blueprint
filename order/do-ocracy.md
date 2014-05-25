@@ -15,5 +15,5 @@ Source: http://www.communitywiki.org/en/DoOcracy
 
 # Boundries
 
-Some things are to sensitive to be handled by do-ocracy alone, like throwing things away. The Pact defines what the boundraries are of the Do-ocracy.
+Some things are to sensitive to be handled by do-ocracy alone, like throwing things away. The Pact defines what the boundraries are of the Do-ocracy. Any member can request that a decision is discussed in the group.
 
