@@ -8,7 +8,7 @@ The decision making model can be decided at runtime by the current board. The bo
 * therefore the board must consist of an uneven amount of members: 3, 5, 7, ...
 
 ## Members group
-When a conflict/problem can not be resolved between individuals or when it impacts the group, a decision is required by the group. Below outlines the decision making model to be used by this group.
+Below outlines the decision making model to be used by this group.
 
 | PLAN/TIME   |  ACTION | VOTE |
 | ------------------------------- |:------------------------------:| --------------:|
