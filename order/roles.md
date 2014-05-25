@@ -1,6 +1,6 @@
 # Core group
 
-The core group exists to enable the hacker environment to exist. Apart from that, they should be indistinguishable from normal members.
+*The core group exists to enable the hacker environment to exist. Apart from that, they should be indistinguishable from normal members.*
 
 In the current legal structure (VZW) the board members carry the end-responsibility. So the core group can only contain the same people that are appointed board-member during the general assembly. This way the people taking the decision are also liable and vice-versa,
 no people can take decision without needing to take responsibility for it.
@@ -20,7 +20,9 @@ In certain sensitive cases, like harrasment and conflict between individual memb
       
 # Group Of Members
 
-The members make and maintain the hacker environment.
+*The members make and maintain the hacker environment.*
+
+When a conflict/problem can not be resolved between individuals/via do-ocracy or when it impacts the group, a decision is required by the group. Any member can request that a decision is made by the Group Of Members instead of by do-ocracy/individual members.
 
 They are responsible for
 
@@ -31,14 +33,14 @@ They are responsible for
 
 # Individual members
 
-The individuals have to be excellent
+*The individuals have to be excellent.*
 
  - Follow [Do-ocracy](do-ocracy.md)
  - Actively try to fix problems
  - Maintain personal safety and that of others
  - To follow and enforce the [Pact](../pact/README.md).
 
- # Non-members
+# Non-members
 
 Non-members are also an important part of the space. They can contribute to the hacker environment and they can be potential members. However, non-members have less priviliges than members.
 
