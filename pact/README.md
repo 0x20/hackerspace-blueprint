@@ -53,7 +53,8 @@ All personal property that is not in a members box has to be labeled (including 
 
 **Space property that requires you to follow a workshop before use**
  
- * 3D printer
+ * ~~3D printer~~ (Broken: if you can fix it, you're the new expert!)
+ * Tablesaw
 
 #### 2.2.2 Damaging or losing space property
 
