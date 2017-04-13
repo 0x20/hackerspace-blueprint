@@ -13,7 +13,7 @@ Doing a task is in itself justification for you being the person who does that j
 
 Source: http://www.communitywiki.org/en/DoOcracy
 
-# Boundries
+# Boundaries
 
-Some things are to sensitive to be handled by do-ocracy alone, like throwing things away. The Pact defines what the boundraries are of the Do-ocracy. Any member can request that a decision is discussed in the group.
+Some things are to sensitive to be handled by do-ocracy alone, like throwing things away. The Pact defines what the boundaries are of the Do-ocracy. Any member can request that a decision is discussed in the group.
 
