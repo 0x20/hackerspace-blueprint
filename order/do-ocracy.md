@@ -2,7 +2,7 @@
 
 ## In short
  * If you want something done: **Just do it!**
- * Have you done something? **Great!, now tell others about it.** Tell them what you did, and why you did it. The mailinglist is a great place to do so. Telling other people about your actions lets them know who to thank and will give you more support.
+ * Have you done something? **Great!, now tell others about it.** Tell them what you did, and why you did it. The mailing-list is a great place to do so. Telling other people about your actions lets them know who to thank and will give you more support.
  * If somebody complains: Either **revert it**, or work out a solution with the person who is complaining.
 
 ## Vision behind it

@@ -20,7 +20,7 @@ This is a description of the system that will run our hackerspace. You will find
 
 *In the series, the order is a book that describes how the silos should be managed. The order is clearly "bad" because all control is an infringement to the freedom of the people. Still, if you progress further in the series, you see that the order is still a good way to manage the people.*
 
-In the series, the order is used to control the people, and to limit their ability to progress. They want to keep the people dumb, so they're easy to manage. However, in our hackerspace, we want to do the exact opposite. Our order should empower people to get the best out of themselves. Our order should stimulate collaboration, and should enable people to think creatively and to solve problems creatively. We know that this system will be flawed from the start. We know that control of people is evil. But a flawed system is better than no system, and we will continuously patch this system to make it better. That is why this is on github. So we can learn from our past mistakes and other people can stand on our shoulders to see further than anyone else.
+In the series, the order is used to control the people, and to limit their ability to progress. They want to keep the people dumb, so they're easy to manage. However, in our hackerspace, we want to do the exact opposite. Our order should empower people to get the best out of themselves. Our order should stimulate collaboration, and should enable people to think creatively and to solve problems creatively. We know that this system will be flawed from the start. We know that control of people is evil. But a flawed system is better than no system, and we will continuously patch this system to make it better. That is why this is on GitHub. So we can learn from our past mistakes and other people can stand on our shoulders to see further than anyone else.
 
 #### [2. The Pact](https://github.com/0x20/HTH/tree/master/pact)
 
@@ -31,7 +31,7 @@ This is the Code of Conduct. This is intended to be a very broad enforced guidel
 Unlike in the series, our pact will be made by the group, and enforced by the group. The group can change the pact as they see fit.
 
 #### [3. The Legacy](https://github.com/0x20/HTH/tree/master/legacy)
-Because every good idea that was once written down has been misinterpreted, we included all the information that led us to the Order and the Pact in this repository as The Legacy. This should by used as a "cypher" to interpret these correctly and to explain a bit of the rationale behind them.
+Because every good idea that was once written down has been misinterpreted, we included all the information that led us to the Order and the Pact in this repository as The Legacy. This should by used as a "cipher" to interpret these correctly and to explain a bit of the rationale behind them.
 
 *In the series, the legacy is a collection of all the information that remains in the old world. It serves as a warning for the people questioning the order. The legacy is only available to a selected number of people, just like the order. The legacy does not include all of history, only certain parts chosen by the people who built the silo.*
 

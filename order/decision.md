@@ -18,9 +18,9 @@ Below outlines the decision making model to be used by this group.
 | Week 3  |     Discuss in group, listen, learn and build compromise      |  Point system    |
 
 ##### week 0: 
-the point is put on the agenda of the weekly meeting and is announced on the mailinglist. This needs to be at least 3 days in advance.
+the point is put on the agenda of the weekly meeting and is announced on the mailing-list. This needs to be at least 3 days in advance.
 ##### week 1: 
-the point is discussed in group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because consensus comes with characterics that benefits the hackerspace:
+the point is discussed in group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because consensus comes with characteristics that benefits the hackerspace:
   * encourages discussion
   * forced to listen to apposing ideas that can give new insights
   * they can bring smarter compromises
@@ -42,7 +42,7 @@ The point system is a **last-resort** option. This should not be the general pro
   * The proposal with the most points wins
   * In case of tie; revote.
   * ** Number of points per voter  = ** `(#_of_options * 2 ) + 1 `
-  * Results should be given to the group in binary format: what proposal won and what lost. This is to strengten the support of the decision.
+  * Results should be given to the group in binary format: what proposal won and what lost. This is to strengthen the support of the decision.
   
 
 "No decision" is worse than a "bad decision". Conflict has to be solved eventually. That is why there is this last-resort option. However, we want to discourage people from blocking consensus. The point system has the following advantages:
@@ -67,7 +67,7 @@ In the point system, every voter gets some points that he can distribute between
 | B              |                          1   | 4   |
 | TOTAL    |     24                    | **26**   |
 
-As you can see in this example, a less-extreme proposal that, on first sight, has the minority of the votes, can still win. This gives the minority the incentive to come up with moderate ideas that everybode can agree with.
+As you can see in this example, a less-extreme proposal that, on first sight, has the minority of the votes, can still win. This gives the minority the incentive to come up with moderate ideas that everyone can agree with.
 
 | Vote without points        |  Points to A                    | Points to B  |
 | ------------------------------- |:------------------------------:| --------------:|
@@ -83,7 +83,7 @@ As you can see in this example, a less-extreme proposal that, on first sight, ha
 | B              |                          0   | 5   |
 | TOTAL    |   **32**                    | 18   |
 
-However, extreme ideas will not be able to "win". With extreme ideas, the outcome of this model will be the same als with a +50% majority.
+However, extreme ideas will not be able to "win". With extreme ideas, the outcome of this model will be the same as with a +50% majority.
 
 ## Individual
 
