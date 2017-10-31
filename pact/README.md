@@ -45,7 +45,7 @@ All personal property that is not in a members box has to be labeled (including 
 
  * When you are using tools/infrastructure from the space, you are effectively borrowing that item from the community. 
  * Return borrowed items promptly in the same or better condition than when borrowed.
- * If you borrow it, return it. If you damage or lose it: follow 2.2.1
+ * If you borrow it, return it. If you damage or lose it: follow 2.2.2
  * So when using something, clean it afterwards and put it back in it's place.
  * If you  are not trained to use tool $FOO, don't use tool $FOO but ask an expert to teach you first.
  * If you use one of the public workstations, please shut it off when you are done. 
