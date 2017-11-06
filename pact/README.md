@@ -5,15 +5,15 @@ The pact == code of conduct.
 **Note:** For now the goal of this page is to collect ideas that YOU think should be part of the
 code of conduct for the space. Each of the points will be agreed upon using [group decision model](../order/decision.md#members-group).
 
-Basically we've come the observation that "*use common sense*" and "*be excellent*" don't always suffice as a *code of conduct*. This is because different people have different realities, different values and morals. We think this diversity is a good thing. However in a communal context where these realities clash with eachother it creates friction and conflict. 
+Basically we've come the observation that "*use common sense*" and "*be excellent*" don't always suffice as a *code of conduct*. This is because different people have different realities, different values and morals. We think this diversity is a good thing. However in a communal context where these realities clash with each other it creates friction and conflict. 
 
 So the need for basic rules arose, this is an attempt to define these rules.
 
 These basic rules are a practical emanation the two basic rules: 
 * Use common sense
-* Be excellent to eachother
+* Be excellent to each other
 
-Members are encouraged to apply the two basic rules to the best of their abilities. *Be excellent to eachother* implies treating others the way you want to be treated, which is considered by almost all moral systems as [the golden rule](http://en.wikipedia.org/wiki/Golden_Rule).
+Members are encouraged to apply the two basic rules to the best of their abilities. *Be excellent to each other* implies treating others the way you want to be treated, which is considered by almost all moral systems as [the golden rule](http://en.wikipedia.org/wiki/Golden_Rule).
 
 ## 1 Projects
 
@@ -45,11 +45,11 @@ All personal property that is not in a members box has to be labeled (including 
 
  * When you are using tools/infrastructure from the space, you are effectively borrowing that item from the community. 
  * Return borrowed items promptly in the same or better condition than when borrowed.
- * If you borrow it, return it. If you damage or lose it: follow 2.2.2
+ * If you borrow it, return it. If you damage or lose it: follow 2.2.2.
  * So when using something, clean it afterwards and put it back in it's place.
  * If you  are not trained to use tool $FOO, don't use tool $FOO but ask an expert to teach you first.
  * If you use one of the public workstations, please shut it off when you are done. 
- * if you use the printer, please deposit some cash to pay for consumables
+ * if you use the printer, please deposit some cash to pay for consumables.
 
 **Space property that requires you to follow a workshop before use**
  
@@ -68,7 +68,7 @@ Only members are allowed to take space property out of the space. If you takes s
 
 ### 3.1 Cleaning
 
-* Keep the dishes clean: when using the dishes clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder. 
+* Keep the dishes clean: when using the dishes clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder.
 * Keep the desks clean, feel free to use the deskspace for your stuff, you can leave your stuff on the desk when you just 'pop out for some food', but leave a note stating when you'll be back. _Do Not_ leave it thoere untill the next morning. 
 * Remove empty packaging, from food or beverages. 
 * Every once in a while there will be a cleaning day in the space, as an good upstanding member of the community you should attend one of these at least once quarterly. Lots of hands make light work.
