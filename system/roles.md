@@ -8,7 +8,7 @@ The role of the board is explained in detail in [the board document](board.md).
 
 *The members make and maintain the hacker environment.*
 
-When a conflict/problem can not be resolved between individuals/via do-ocracy or when it impacts the group, a decision is required by the group. Any member can request that a decision is made by the Group Of Members instead of by do-ocracy/individual members.
+When a conflict/problem can not be resolved between individuals/via do-ocracy or when it impacts the group, a group decision is required.  Any member can request that a decision is made by the Group Of Members instead of by do-ocracy/individual members.
 
 They are responsible for
 
