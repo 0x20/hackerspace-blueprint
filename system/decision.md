@@ -41,7 +41,7 @@ The point is discussed again but now a rough consensus of 80% is applied to reac
 
 ### week 3
 
-When all has failed, or the problem is too controversial, but a decision is still required the point system below will be used to reach a decision.
+When all has failed, or the problem is too controversial, but a decision is still required, the point system below will be used to reach a decision.
 
 ### Point system
 
