@@ -1,23 +1,7 @@
-# Core group
+# The Board
 
-*The core group exists to enable the hacker environment to exist. Apart from that, they should be indistinguishable from normal members.*
+The role of the board is explained in detail in [the board document](board.md).
 
-In the current legal structure (VZW) the board members carry the end-responsibility. So the core group can only contain the same people that are appointed board-member during the general assembly. This way the people taking the decision are also liable and vice-versa,
-no people can take decision without needing to take responsibility for it.
-
-The core group is responsible for
-
-  * Finance     
-  * Core infrastructure (including safety of core infrastructure)
-  * Extreme conflict between members such as harassment
-  * Communication about these things with Group Of Members
-
-This does not mean that the core group has to do everything themselves. They can "outsource" tasks to other people. However, the core group has to check if these tasks are done properly.
-
-The core group can temporarily ban people from the space as a means of enforcing their responsibility. If they do that, however, they have to send a notice to all members, explaining what they did and why. In the next meeting, the problem has to be discussed so the group can decide upon a permanent solution.
-
-In certain sensitive cases, like harassment and conflict between individual members, it is advised that the core group sits down with the concerning parties and tries to find a resolution. When a resolution is found, and it concerns the Group Of Members, the core group proposes the resolution to the Group Of Members. The Group Of Members then has to approve the proposal.
-      
 # Group Of Members
 
 *The members make and maintain the hacker environment.*

@@ -24,7 +24,7 @@ In the series, the order is used to control the people, and to limit their abili
 
 #### [2. The Pact](https://github.com/0x20/HTH/tree/master/pact)
 
-This is the Code of Conduct. This is intended to be a very broad enforced guideline of how members should behave. 
+This is the Code of Conduct. This is intended to be a very broad enforced guideline of how members should behave.
 
 *In the series, the pact is "The law".*
 
