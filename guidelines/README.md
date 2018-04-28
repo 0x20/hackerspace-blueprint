@@ -1,9 +1,7 @@
-# Pact Proposal
-
-The pact == code of conduct.
+# Guidelines
 
 **Note:** For now the goal of this page is to collect ideas that YOU think should be part of the
-code of conduct for the space. Each of the points will be agreed upon using [group decision model](../order/decision.md#members-group).
+code of conduct for the space. Each of the points will be agreed upon using [group decision model](../system/decision.md#members-group).
 
 Basically we've come the observation that "*use common sense*" and "*be excellent*" don't always suffice as a *code of conduct*. This is because different people have different realities, different values and morals. We think this diversity is a good thing. However in a communal context where these realities clash with each-other it creates friction and conflict.
 
@@ -28,7 +26,7 @@ There is a clear distinction between Personal vs Space projects.
 
 ### Space
 
-* Decisions goes through the [Flow](../order/flow.md)
+* Decisions goes through the [Flow](../system/flow.md)
 * The property of the project is considered space property and 2.2 applies to it.
 * The Group decides what happens to the end-result of the project
 
@@ -54,7 +52,7 @@ All personal property that is not in a members box has to be labeled (including 
 * If you use one of the public workstations, please shut it off when you are done.
 * if you use the printer, please deposit some cash to pay for consumables
 
-**Space property that requires you to follow a workshop before use**
+##### Space property that requires you to follow a workshop before use
 
 * ~~3D printer~~ (Broken: if you can fix it, you're the new expert!)
 * Table-saw
