@@ -31,4 +31,4 @@ They are responsible for
 Non-members are also an important part of the space. They can contribute to the hacker environment and they can be potential members. However, non-members have less privileges than members.
 
 - Non-members are only allowed in the space when they are in company of a member. That member is responsible for the actions of the non-member.
-- Non-members have to follow the guidelines. A non-member is not allowed to challenge a decision made by the group. Does the non-member disagree with a decision made by the group, then he/she should become a member and bring the topic forward on a meeting.
+- Non-members have to follow the guidelines. A non-member is not allowed to challenge a decision made by the group. If the non-member disagree with a decision made by the group, then they should become a member and bring the topic forward on a meeting.
