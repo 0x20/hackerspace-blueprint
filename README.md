@@ -13,7 +13,7 @@ We created our very own Ghent hackerspace. We had two rules: be excellent to eac
 
 We knew that, in order to fix this, we needed a system that gets the best out of everyone and enables us to be awesome! After long late-night discussions, we came up with HTH. *This git repository contains the organizational structure of our hackerspace. This is intended to be place-agnostic information so it can be used by other hackerspaces around the world.*
 
-This is divided into 3 parts. Because [naming things is very hard](http://xkcd.com/910/) we decided to use the names from the ["Silo" series of Hugh Howey](http://en.wikipedia.org/wiki/Silo_%28series%29). The series follows the life of several people living in underground silo's in a post-apocalyptic society.
+This is divided into 3 parts.
 
 ### [1. The System](./system)
 
