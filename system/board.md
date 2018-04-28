@@ -7,7 +7,7 @@ Specifically, the board has two roles, and for everything that doesn't fall into
 1. *Custodian of the physical core infrastructure of the space.* This stems from the [infrastructure pattern](https://wiki.hackerspaces.org/The_Infrastructure_Pattern). Provide a room with power, internet, a bar and a kitchen and the hackers will come. An important aspect of this is keeping a good relationship with the surroundings as said in the [landlord and neighborhood pattern](https://wiki.hackerspaces.org/The_Landlord_and_Neighbourhood_Pattern).
 2. *Counselor for the people in the space.* When conflict happens that can't be resolved in the group, the board is responsible to resolve the conflict. A great way to do this is [the private talk pattern](https://wiki.hackerspaces.org/The_Private_Talk_Pattern): go talk to the involved parties in private, listen to the person and let them know how the group feels.
 
-Both jobs are critically important to the space. Many hackerspaces disbanded because they were kicked out by their landlord and many hackerspaces fell apart because of internal conflict. It is important to get the right people in the board. **This is why the board has no power: so it doesn't attract people who want to be in power.**
+Both jobs are critically important to the space. Many hackerspaces disbanded because they were kicked out by their landlord and many hackerspaces fell apart because of internal conflict. It is important to get the right people in the board. **This is why the board has very little power and only in exceptional circumstances: so it doesn't attract people who want to be in power.**
 
 ## Why is there a board?
 
