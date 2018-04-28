@@ -3,16 +3,16 @@
 **Note:** For now the goal of this page is to collect ideas that YOU think should be part of the
 code of conduct for the space. Each of the points will be agreed upon using [group decision model](../system/decision.md#members-group).
 
-Basically we've come the observation that "*use common sense*" and "*be excellent*" don't always suffice as a *code of conduct*. This is because different people have different realities, different values and morals. We think this diversity is a good thing. However in a communal context where these realities clash with each-other it creates friction and conflict.
+Basically we've come the observation that "*use common sense*" and "*be excellent*" don't always suffice as a *code of conduct*. This is because different people have different realities, values and morals. We think this diversity is a good thing. However in a communal context where these realities clash with each other it creates friction and conflict.
 
-So the need for basic rules arose, this is an attempt to define these rules.
+So the need for guidelines arose, this is an attempt to define these rules.
 
-These basic rules are a practical emanation the two basic rules:
+These guidelines are a practical emanation the two basic rules:
 
 * Use common sense
-* Be excellent to eachother
+* Be excellent to each other
 
-Members are encouraged to apply the two basic rules to the best of their abilities. *Be excellent to eachother* implies treating others the way you want to be treated, which is considered by almost all moral systems as [the golden rule](http://en.wikipedia.org/wiki/Golden_Rule).
+Members are encouraged to apply the two basic rules to the best of their abilities. *Be excellent to each other* implies treating others the way you want to be treated, which is considered by almost all moral systems as [the golden rule](http://en.wikipedia.org/wiki/Golden_Rule).
 
 ## 1 Projects
 
@@ -22,13 +22,13 @@ There is a clear distinction between Personal vs Space projects.
 
 * You have full control over what happens to the project.
 * The property of the project is considered personal property and 2.1 applies to it.
-* You decide what happens to the end-result of the project
+* You decide what happens to the end-result of the project.
 
 ### Space
 
-* Decisions goes through the [Flow](../system/flow.md)
+* Decisions go through the [Flow](../system/flow.md).
 * The property of the project is considered space property and 2.2 applies to it.
-* The Group decides what happens to the end-result of the project
+* The Group decides what happens to the end result of the project.
 
 ## 2 Property and tools
 
@@ -55,7 +55,7 @@ All personal property that is not in a members box has to be labeled (including 
 ##### Space property that requires you to follow a workshop before use
 
 * ~~3D printer~~ (Broken: if you can fix it, you're the new expert!)
-* Table-saw
+* Table saw
 
 #### 2.2.2 Damaging or losing space property
 
@@ -72,14 +72,14 @@ Only members are allowed to take space property out of the space. If you takes s
 * Keep the dishes clean: when using the dishes clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder.
 * Keep the desks clean, feel free to use the deskspace for your stuff, you can leave your stuff on the desk when you just 'pop out for some food', but leave a note stating when you'll be back. _Do Not_ leave it there until the next morning.
 * Remove empty packaging, from food or beverages.
-* Every once in a while there will be a cleaning day in the space, as an good upstanding member of the community you should attend one of these at least once quarterly. Lots of hands make light work.
+* Every once in a while there will be a cleaning day in the space, as a good upstanding member of the community you should attend one of these at least once quarterly. Many hands make light work.
 
 ### 3.2 Exit space
 
 * If you are the last person to leave the space, it's your responsibility to clean up. If you see people leaving, please alert them if they have left their trash in the space.
 * Switch off all power consuming things
 * Close the roof
-* Read and follow the checklist at the door
+* Read and follow the checklist at the door.
 
 ### 3.3 Throwing things away
 
@@ -92,14 +92,14 @@ Only members are allowed to take space property out of the space. If you takes s
 
 ### 4.1 Noise
 
-* People are trying to concentrate in here so
+* People are trying to concentrate in here so,
 * Mind your voice, volume. If you are talking to someone on the other side of the space everyone in between can hear you, move closer.
-* We know you like $FOO music, but use a headphone or keep the volume low.
+* We know you like $FOO music, but use headphones or keep the volume low.
 * Don't be afraid to ask if you are not intruding/disturbing.
-* Some moments are more 'loud' than others, so it's not always easy to follow. Sometimes "library/office-rules" apply, sometimes workshop-rules and sometimes bar-rules. When in doubt, check with the other members.
+* Some moments are 'louder' than others, so it's not always easy to follow. Sometimes library/office-rules apply, sometimes workshop-rules and sometimes bar-rules. When in doubt, check with the other members.
 
 ### 4.2 Network/security
 
-* Just leave other peoples stuff alone, don't post "*funny*" social network status updates on unattended logged in computers.
+* Just leave other people's stuff alone, don't post "*funny*" social network status updates on unattended logged in computers.
 * Don't sniff the network / no ssl-strip /  rogue dhcp / random script-kiddo stuff. It been done before, it's lame.
-* Don't congest the network with (legal) torrenting, just behave nicely, so we don't have to write an aup.
+* Don't congest the network with (legal) torrenting, just behave nicely, so we don't have to write an AUP.
