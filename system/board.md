@@ -32,6 +32,7 @@ Here are some examples of when you should check with the board before you do it.
 - If you want to make changes to membership fees, the bar, the space shop,..
 - If you want to make changes to the electricity, and internet.
 - If you want to make changes to the space building that affect fire safety, structural integrity, ..
+- People abusing the space, people in the space, or you.
 
 ## Who should be in the board?
 
