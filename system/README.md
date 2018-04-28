@@ -12,7 +12,7 @@ A description of the decision making models used in the different entities of th
 
 ## [Work Flow](flow.md)
 
-The flow how decisions are made in the space.
+The flow of how decisions are made in the space.
 
 ## [Do-ocracy](do-ocracy.md)
 
