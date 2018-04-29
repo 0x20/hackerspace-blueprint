@@ -26,10 +26,10 @@ The point is put on the agenda of the weekly meeting and is announced on the mai
 
 ### week 1
 
-The point is discussed in group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because consensus comes with characteristics that benefits the hackerspace:
+The point is discussed in group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because consensus comes with characteristics that benefit the hackerspace:
 
 * encourages discussion
-* forced to listen to apposing ideas that can give new insights
+* forced to listen to opposing ideas that can give new insights
 * they can bring smarter compromises
 * http://en.wikipedia.org/wiki/Consensus
 

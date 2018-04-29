@@ -44,6 +44,6 @@ Moreover, if people are abusing the space, people in the space, or you, then it'
 The board does not have any say about what other members are to do, and you want people in the board that like/keep it that way.
 
 - The "warden" role requires people who are responsible and dependable. The kind of people who say "maybe that's not such a good idea, we might get thrown out if we do that".
-- The "counselor" role requires people who are open communicators, good listeners, and good at diffusing a situation.
+- The "counselor" role requires people who are open communicators, good listeners, and good at defusing a situation.
 
 Both roles require people who are trusted by the members, are open for feedback, and who communicate openly about what they're doing. Since a position with power is controversial (rightly so) in the hacker community, it's incredibly important that the members trust the people in the board. The board will make difficult decisions and the members need to trust that these decisions are the right ones for the space, not just the right ones for the people in the board.
