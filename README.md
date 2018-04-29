@@ -19,8 +19,6 @@ This is divided into 3 parts.
 
 This is a description of the system that will run our hackerspace. You will find the different decision processes and the different entities of the organization.
 
-*In the series, the order is a book that describes how the silos should be managed. The order is clearly "bad" because all control is an infringement to the freedom of the people. Still, if you progress further in the series, you see that the order is still a good way to manage the people.*
-
 The system should empower people to get the best out of themselves. It should stimulate collaboration, and enable people to think creatively and to solve problems creatively. We know that this system will be flawed from the start. We know that control of people is evil. But a flawed system is better than no system, and we will continuously patch this system to make it better. That is why this is on GitHub. So we can learn from our past mistakes and other people can stand on our shoulders to see further than anyone else.
 
 ### [2. The Guidelines](./guidelines)
