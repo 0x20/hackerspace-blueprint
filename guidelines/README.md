@@ -46,7 +46,7 @@ All personal property that is not in a members box has to be labeled (including 
 
 * When you are using tools/infrastructure from the space, you are effectively borrowing that item from the community.
 * Return borrowed items promptly in the same or better condition than when borrowed.
-* If you borrow it, return it. If you damage or lose it: follow 2.2.2
+* If you borrow it, return it. If you damage or lose it: follow 2.2.2.
 * So when using something, clean it afterwards and put it back in it's place.
 * If you  are not trained to use tool $FOO, don't use tool $FOO but ask an expert to teach you first.
 * If you use one of the public workstations, please shut it off when you are done.
@@ -63,13 +63,13 @@ If you damage or lose space property, you have to notice the Group Of Members im
 
 #### 2.2.3 Taking space property out of the space
 
-Only members are allowed to take space property out of the space. If you takes space property out of the space, you have to notice the Group Of Members immediately via the mailing-list. In the mail, you have to include when you'll return it. If any other member disagrees, you put it back.
+Only members are allowed to take space property out of the space. If you take space property out of the space, you have to notify the Group Of Members immediately via the mailing-list. In the mail, you have to include when you'll return it. If any other member disagrees, you put it back.
 
 ## 3 Space maintenance
 
 ### 3.1 Cleaning
 
-* Keep the dishes clean: when using the dishes clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder.
+* Keep the dishes clean: when using the dishes, clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder.
 * Keep the desks clean, feel free to use the deskspace for your stuff, you can leave your stuff on the desk when you just 'pop out for some food', but leave a note stating when you'll be back. _Do Not_ leave it there until the next morning.
 * Remove empty packaging, from food or beverages.
 * Every once in a while there will be a cleaning day in the space, as a good upstanding member of the community you should attend one of these at least once quarterly. Many hands make light work.
@@ -92,8 +92,9 @@ Only members are allowed to take space property out of the space. If you takes s
 
 ### 4.1 Noise
 
-* People are trying to concentrate in here so,
-* Mind your voice, volume. If you are talking to someone on the other side of the space everyone in between can hear you, move closer.
+People are trying to concentrate in here so:
+
+* Mind your voice, volume. If you are talking to someone on the other side of the space, everyone in between can hear you; move closer.
 * We know you like $FOO music, but use headphones or keep the volume low.
 * Don't be afraid to ask if you are not intruding/disturbing.
 * Some moments are 'louder' than others, so it's not always easy to follow. Sometimes library/office-rules apply, sometimes workshop-rules and sometimes bar-rules. When in doubt, check with the other members.

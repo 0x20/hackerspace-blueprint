@@ -9,11 +9,11 @@
 ## Vision behind it
 
 A do-ocracy is an organizational structure in which individuals choose to pick up roles and execute tasks by themselves, rather than getting them appointed by others.
-Responsibilities are attach to people who do the work, rather than to the elected/selected officials.
+Responsibilities are attached to people who do the work, rather than to the elected/selected officials.
 Doing a task is in itself justification for you being the person who does that job.
 
 Source: http://www.communitywiki.org/en/DoOcracy
 
 ## Boundaries
 
-Some things are to sensitive to be handled by do-ocracy alone, like throwing things away. The guidelines defines what the boundaries are of the Do-ocracy. Any member can request that a decision is discussed in the group.
+Some things are too sensitive to be handled by do-ocracy alone, like throwing things away. The guidelines define what the boundaries are of the Do-ocracy. Any member can request that a decision is discussed in the group.
