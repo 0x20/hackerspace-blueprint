@@ -35,7 +35,7 @@ Here are some examples of when you should check with the board before you do it.
 - If you want to make changes to the electricity, and internet.
 - If you want to make changes to the space building that affect fire safety, electrical safety, structural integrity or changes that would make the building collapse.
 
-This isn't necesarily to get their approval, more to give them a chance to stop you if they think it's a bad idea. *Note: If something has been decided on a meeting with the board present, you can assume the board doesn't have any objections to it, and you can just do it.*
+This isn't necessarily to get their approval, more to give them a chance to stop you if they think it's a bad idea. *Note: If something has been decided on a meeting with the board present, you can assume the board doesn't have any objections to it, and you can just do it.*
 
 Moreover, if people are abusing the space, people in the space, or you, then it's best to inform the board. You're free to ask help from anyone you feel comfortable with, but it's best to also inform a board member to prevent so that they can intervene help when someone harasses multiple people in private.
 
