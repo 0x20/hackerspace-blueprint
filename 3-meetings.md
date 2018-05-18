@@ -1,6 +1,6 @@
 # 3. Meetings
 
-## The desicion making model
+## The decision making model
 
 Below outlines the decision making model to be used during meetings.
 
@@ -87,3 +87,26 @@ As you can see in this example, a less-extreme proposal that, on first sight, ha
 | TOTAL    |   **32**                    | 18   |
 
 However, extreme ideas will not be able to "win". With extreme ideas, the outcome of this model will be the same as with a +50% majority.
+
+## General Assembly and Statutes
+
+A general assembly is different from a normal meeting in that it is governed by the rules in the official statutes of the legal entity "Hackerspace Gent (0x20)". As a Belgian non-profit organization, Hackerspace Gent is required to host a General Assembly each year. During a general assembly, the board is elected.
+
+The statutes dictate the following.
+
+* The General Assembly needs to be announced at least 10 days beforehand.
+* 50% of members need to be present during a General Assembly.
+* 2/3 of members need to be present in order to change the statutes and/or the board.
+* Decisions during the General assembly need a 2/3 majority of the present members.
+* The board needs to have at least 3 members.
+
+You can find the latest version of the statutes in the Government gazette (staatsblad) (Dutch-language).
+
+1. Go to http://www.ejustice.just.fgov.be/tsv/tsvn.htm
+2. Fill in `0x20` in the "Benaming" field and press the "Opzoeking" button. Now you should see a number next to the "opzoeking" button, this is how many search results there are. *0x20 is the short name for "Hackerspace Gent", previously "Whitespace".*
+3. Press the "lijst" button to see all the search results.
+
+More important information from the statutes.
+
+* The hackerspace needs to have at least 4 members.
+* New members need to be approved by the board.

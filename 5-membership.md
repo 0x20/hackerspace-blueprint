@@ -10,17 +10,17 @@ They are responsible for
 
 - Creating and patching the guidelines and the system.
 - Solve problems when do-ocracy cannot fix them.
-- Elect board, validate membership decisions made by the board.
+- Electing the board during a General Assembly.
 - Organize workshops, events, lectures.
 
 ## Individual members
 
 *The individuals have to be excellent.*
 
-- Follow [Do-ocracy](do-ocracy.md)
-- Actively try to fix problems
-- Maintain personal safety and that of others
-- Follow and enforce the [Guidelines](guidelines.md).
+- Follow Do-ocracy.
+- Actively try to fix problems.
+- Maintain personal safety and that of others.
+- Follow and enforce the Guidelines.
 
 ## Non-members
 
