@@ -1,7 +1,7 @@
-# Guidelines
+# 5. Guidelines
 
 **Note:** For now the goal of this page is to collect ideas that YOU think should be part of the
-code of conduct for the space. Each of the points will be agreed upon using [group decision model](../system/decision.md#members-group).
+code of conduct for the space. Each of the points will be agreed upon using [group decision model](decision.md#members-group).
 
 Basically we've come the observation that "*use common sense*" and "*be excellent*" don't always suffice as a *code of conduct*. This is because different people have different realities, values and morals. We think this diversity is a good thing. However in a communal context where these realities clash with each other it creates friction and conflict.
 
@@ -26,7 +26,7 @@ There is a clear distinction between Personal vs Space projects.
 
 ### Space
 
-* Decisions go through the [Flow](../system/flow.md).
+* Decisions go through the [Flow](flow.md).
 * The property of the project is considered space property and 2.2 applies to it.
 * The Group decides what happens to the end result of the project.
 

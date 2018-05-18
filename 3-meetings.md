@@ -1,17 +1,8 @@
-# Decision making models
+# 3. Meetings
 
-For each layer there is a specific decision making model. This page describes them.
+## The desicion making model
 
-## The board
-
-The decision making model can be decided at runtime by the current board. The board is supposed to be a group that is sync'ed so the decision making process should be a natural flow. The below is outlined as a backup in case a decision can not be made.
-
-* voting with a 2/3 majority.
-* therefore the board must consist of an uneven amount of members: 3, 5, 7, ...
-
-## Members group
-
-Below outlines the decision making model to be used by this group.
+Below outlines the decision making model to be used during meetings.
 
 | PLAN/TIME   |  ACTION | VOTE |
 | ------------------------------- |:------------------------------:| --------------:|
@@ -96,8 +87,3 @@ As you can see in this example, a less-extreme proposal that, on first sight, ha
 | TOTAL    |   **32**                    | 18   |
 
 However, extreme ideas will not be able to "win". With extreme ideas, the outcome of this model will be the same as with a +50% majority.
-
-## Individual
-
-* Every individual has their own responsibilities as a member of the group, and thus requires their own decision model.
-* An individual is free to choose their own decision model, but keep in mind that you are part of a group.

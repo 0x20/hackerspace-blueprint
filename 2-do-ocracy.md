@@ -1,4 +1,4 @@
-# Do-ocracy
+# 2. Do-ocracy
 
 ## In short
 

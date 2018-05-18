@@ -1,8 +1,4 @@
-# The Roles
-
-## The Board
-
-The role of the board is explained in detail in [the board document](board.md).
+# 5. Membership
 
 ## Group Of Members
 
@@ -24,7 +20,7 @@ They are responsible for
 - Follow [Do-ocracy](do-ocracy.md)
 - Actively try to fix problems
 - Maintain personal safety and that of others
-- Follow and enforce the [Guidelines](../guidelines/README.md).
+- Follow and enforce the [Guidelines](guidelines.md).
 
 ## Non-members
 

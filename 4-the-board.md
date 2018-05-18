@@ -1,4 +1,4 @@
-# The board
+# 4. The Board
 
 The board exists to make sure the hacker environment survives. The board members are not the leaders of the space, they are the firemen of the space. They make sure the physical space stays available and the members keep loving each other. Apart from that, the board members should be *indistinguishable* from normal members. The board members don't have any more say over the direction of the space or the projects in the space than any other member.
 
