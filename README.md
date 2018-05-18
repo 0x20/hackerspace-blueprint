@@ -15,16 +15,32 @@ We knew that, in order to fix this, we needed a system that gets the best out of
 
 This is divided into 3 parts.
 
-### [1. The System](./system)
+### The System
 
 This is a description of the system that will run our hackerspace. You will find the different decision processes and the different entities of the organization.
 
 The system should empower people to get the best out of themselves. It should stimulate collaboration, and enable people to think creatively and to solve problems creatively. We know that this system will be flawed from the start. We know that control of people is evil. But a flawed system is better than no system, and we will continuously patch this system to make it better. That is why this is on GitHub. So we can learn from our past mistakes and other people can stand on our shoulders to see further than anyone else.
 
-### [2. The Guidelines](./guidelines)
+#### Roles
 
-This is the Code of Conduct. This is intended to be a very broad guideline of how members should behave.
+Defines the roles of the different entities that are present in the space.
 
-### [3. The Legacy](./legacy)
+#### Decision Making Model
+
+A description of the decision making models used in the different entities of the space.
+
+#### Work Flow
+
+The flow of how decisions are made in the space.
+
+#### Do-ocracy
+
+The definition and boundaries of the Do-ocracy.
+
+### The Guidelines
+
+This is intended to be a very broad guideline of how members should behave.
+
+### The Legacy
 
 Because every good idea that was once written down has been misinterpreted, we included information that led us to the system and the guidelines in this repository as The Legacy. This should by used as a "cipher" to interpret the system and the guidelines correctly and to explain a bit of the rationale behind them.
