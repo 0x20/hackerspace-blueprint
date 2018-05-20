@@ -2,7 +2,7 @@
 
 ## What should I discuss on a meeting?
 
-Since the hackerspace is mainly a Do-ocracy, there is actually very little that __needs__ to be discussed on a meeting. Do you want something done? Well then, don't talk about it, just do it. Moreover, meetings only have limited power since, even if everyone in the meeting agrees that "A" is something great to do, it will only be done if someone actually does it afterwards. **Therefor, meetings should be primarily focussed on convincing people do do something or asking feedback on what you want to do instead of on deciding what should be done.**
+Since the hackerspace is mainly a Do-ocracy, there is actually very little that __needs__ to be discussed on a meeting. Do you want something done? Well then, don't talk about it, just do it. Moreover, meetings only have limited power since, even if everyone in the meeting agrees that "A" is something great to do, it will only be done if someone actually does it afterwards. **Therefore, meetings should be primarily focused on convincing people to do something or asking feedback on what you want to do instead of on deciding what should be done.**
 
 Things you should discuss on a meeting:
 
@@ -17,13 +17,13 @@ Things you can discuss on a meeting:
 * If you want to do something that requires help from many people, you can use a meeting to convince people to help you.
 * If you have issues with the actions of a certain member and you failed to solve it with that member personally or you want the group's opinion on it.
 
-## How do I shedule a meeting?
+## How do I schedule a meeting?
 
 Any member can shedule a meeting.
 
 1. Create a pad for the meeting topics and the meeting notes.
 2. Pick a date (preferably not during the social evening).
-3. Put the meeting in the calendar with a link to the meeting notes, announce it in the changelog and announce it in the main channel.
+3. Put the meeting in the calendar with a link to the meeting notes, announce it in the main channel and put a link in the changelog.
 
 ## How do we make a decision during a meeting?
 
@@ -35,7 +35,7 @@ Note that this intentionally favors the "yes" vote: there is a slight barrier to
 
 [Consensus-based decision making](https://en.wikipedia.org/wiki/Consensus_decision-making) aims to involve as many stakeholders as possible in a decision. This is the exact opposite from our system, where we want to involve as few stakeholders as possible in a decision, in order to lower the barrier to "doing" as much as possible. Do-ocracy gives as much power as possible to the person doing it, instead of to the persons who have an opinion on it. When you want to do something, you have to make sure that nobody will hate it, instead of making sure that everyone is pleased.
 
-Having as many people as possible involved in a discussion encourages [bikeshedding](http://phk.freebsd.dk/sagas/bikeshed.html): long useless discussion about trivial details that don't really matter in the bigger picture. This idea stems from Parkinson's [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality), which shows that you can easily get approval for building a multi-million dollar atomic power plant, but if you want to build a bike shed, you will be tangled up in endless discussions about the color of the shed. This is because a power plant is so complicated that people cannot grasp it, while anyone can build a bike shed over the weekend so everyone can comment on it. People enjoy commenting on it because they want to be part of the discussion and they want to add a touch and show personal contribution. Although for the people voicing their opinion this might be enjoyeable, it easily kills the passion of the person who wants to get things done, and it slows everything down to a crawl.
+Having as many people as possible involved in a discussion encourages [Bikeshedding](http://phk.freebsd.dk/sagas/bikeshed.html): long useless discussion about trivial details that don't really matter in the bigger picture. This idea stems from Parkinson's [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality), which shows that you can easily get approval for building a multi-million dollar atomic power plant, but if you want to build a bike shed, you will be tangled up in endless discussions about the color of the shed. This is because a power plant is so complicated that people cannot grasp it, while anyone can build a bike shed over the weekend so everyone can comment on it. People enjoy commenting on it because they want to be part of the discussion and they want to add a touch and show personal contribution. Although for the people voicing their opinion this might be enjoyable, it easily kills the passion of the person who wants to get things done, and it slows everything down to a crawl.
 
 ## General Assembly and Statutes
 
