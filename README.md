@@ -33,7 +33,7 @@ We have been refining this system for a few years now, tweaking the system when 
 
 The goal of this system is to empower people to get the best out of themselves. It stimulates collaboration and enables people to think and solve problems creatively. We know that this system will be flawed from the start. We know that control of people is evil. But a flawed system is better than no system, and we continuously update this system to make it better. That is why this is on GitHub, in order to make it easy to build Hack the Hackerspace as a community.
 
-# 1. Introduction
+# 1. Overview
 
 The main system running the Hackerspace is **the do-ocracy**, explained further in Section 2. In short: If you want something done in the hackerspace, either do it yourself or convince someone else to do it for you. The goal of the do-ocracy is to lower the barrier to contributing as much as possible.
 
