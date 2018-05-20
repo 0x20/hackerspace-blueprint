@@ -14,6 +14,14 @@ Doing a task is in itself justification for you being the person who does that j
 
 Source: http://www.communitywiki.org/en/DoOcracy
 
+
+
+People need to feel safe knowing that they are allowed to try, and to fail. Thus, when people fail, we need to be kind and help them get better instead of berate them. The hackerspace gives everyone room to grow, and failure is part of that. For more information, read up on the idea of "blameless post-mortems" in the IT operations and DevOps communities.
+
+
+Tight feedback loop: It's easy to do something, so it's very easy to try something, see what the result is, and then use that information to try something different.
+
+
 ## Boundaries
 
 Some things are too sensitive to be handled by do-ocracy alone, like throwing things away. The guidelines define what the boundaries are of the Do-ocracy. Any member can request that a decision is discussed in the group.

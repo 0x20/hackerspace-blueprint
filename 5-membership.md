@@ -8,7 +8,7 @@ When a conflict/problem can not be resolved between individuals/via do-ocracy or
 
 They are responsible for
 
-- Creating and patching the guidelines and the system.
+- Creating and patching Hack the Hackerspace.
 - Solve problems when do-ocracy cannot fix them.
 - Electing the board during a General Assembly.
 - Organize workshops, events, lectures.

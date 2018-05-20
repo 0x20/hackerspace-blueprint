@@ -2,7 +2,7 @@
 
 Because every good idea that was once written down has been misinterpreted, we included information that led us to the system and the guidelines in this repository as The Legacy. This should by used as a "cipher" to interpret the system and the guidelines correctly and to explain a bit of the rationale behind them.
 
-Some of these documents are archived in the `legacy` folder of the Hack the Hackerspace repository.
+Some of these documents are archived in the `legacy` folder of [the Hack the Hackerspace repository](https://github.com/0x20/HTH).
 
 * [**The fall of the hacker groups.**](The_Fall_of_Hacker_Groups)
 

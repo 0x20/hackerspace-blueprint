@@ -47,3 +47,7 @@ The board does not have any say about what other members are to do, and you want
 - The "counselor" role requires people who are open communicators, good listeners, and good at defusing a situation.
 
 Both roles require people who are trusted by the members, are open for feedback, and who communicate openly about what they're doing. Since a position with power is controversial (rightly so) in the hacker community, it's incredibly important that the members trust the people in the board. The board will make difficult decisions and the members need to trust that these decisions are the right ones for the space, not just the right ones for the people in the board.
+
+## How does the board get elected and expelled?
+
+During a general assembly, the members vote on electing and expelling the board according to the statutes. For more information, refer to the "Meetings" Section.
