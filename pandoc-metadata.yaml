@@ -1,0 +1,14 @@
+---
+#
+# This document contains some pandoc-specific metadata.
+#
+#
+# This is an inline yaml metadata code block that specifies custom headers and footers
+# using latex. Pandoc will probably be the only interpreter that does something useful with it.
+#   source: https://tex.stackexchange.com/questions/139139/adding-headers-and-footers-using-pandoc
+#
+header-includes: |
+    \usepackage{sectsty}
+    \sectionfont{\clearpage}
+links-as-notes: yes
+---

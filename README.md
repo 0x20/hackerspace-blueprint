@@ -1,19 +1,3 @@
----
-#
-# This document contains some pandoc-specific markdown syntax.
-# Export it to pdf by running
-#    pandoc README.md [0-9]*.md -o hack-the-hackerspace.pdf
-#
-#
-# This is an inline yaml metadata code block that specifies custom headers and footers
-# using latex. Pandoc will probably be the only interpreter that does something useful with it.
-#   source: https://tex.stackexchange.com/questions/139139/adding-headers-and-footers-using-pandoc
-#
-header-includes: |
-    \usepackage{sectsty}
-    \sectionfont{\clearpage}
-links-as-notes: yes
----
 # We are a Hackerspace
 
 A hackerspace is a physical place, run by people interested in various aspects of constructive & creative hacking. From finding ways to make your beer cold in a matter of seconds to building a do-it-yourself sms-voting-system with an old android phone.
