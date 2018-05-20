@@ -1,23 +1,28 @@
 # 5. Membership
 
-## Group Of Members
+## How do I become a member?
 
-*The members make and maintain the hacker environment.*
+1. Come to the space a few times so people get to know you.
+2. Fill in a membership form and get two people to sign as sponsors. They will be responsible for making sure you get settled nicely, and they will be responsible for making sure that you understand how the hackerspace works, and how you can be a part of it.
+3. Put your membership application on the agenda for the next meeting. *During that meeting you will have a chance to explain who you are, and why you want to become a member. After this, the other members will decide on your membership by asking if anyone objects. Did no-one object? Congrats! You are now a member!*
+4. Create an automatic bank transfer to transfer the membership fee each month.
 
-When a conflict/problem can not be resolved between individuals/via do-ocracy or when it impacts the group, a group decision is required.  Any member can request that a decision is made by the Group Of Members instead of by do-ocracy/individual members.
+## What are the responsibilities of a member?
 
-They are responsible for
+*The members create and maintain the hacker environment.*
+
+When a conflict/problem can not be resolved between individuals/via do-ocracy or when it impacts the group, a group decision is required. Any member can request that a decision is made by the Group Of Members instead of by do-ocracy/individual members.
+
+The members should do the following things as a group.
 
 - Creating and patching Hack the Hackerspace.
-- Solve problems when do-ocracy cannot fix them.
+- Solve problems in the hackerspace when do-ocracy cannot fix them.
 - Electing the board during a General Assembly.
-- Organize workshops, events, lectures.
-
-## Individual members
 
 *The individuals have to be excellent.*
 
-- Follow Do-ocracy.
+- Organize workshops, events, lectures.
+- Follow do-ocracy.
 - Actively try to fix problems.
 - Maintain personal safety and that of others.
 - Follow and enforce the Guidelines.
