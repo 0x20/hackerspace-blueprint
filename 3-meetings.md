@@ -17,13 +17,13 @@ Things you can discuss on a meeting:
 * If you want to do something that requires help from many people, you can use a meeting to convince people to help you.
 * If you have issues with the actions of a certain member and you failed to solve it with that member personally or you want the group's opinion on it.
 
-## How do I shedule a meeting?
+## How do I schedule a meeting?
 
 Any member can shedule a meeting.
 
 1. Create a pad for the meeting topics and the meeting notes.
 2. Pick a date (preferably not during the social evening).
-3. Put the meeting in the calendar with a link to the meeting notes, announce it in the changelog and announce it in the main channel.
+3. Put the meeting in the calendar with a link to the meeting notes, announce it in the main channel and put a link in the changelog.
 
 ## How do we make a decision during a meeting?
 
