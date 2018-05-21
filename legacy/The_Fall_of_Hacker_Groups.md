@@ -1,9 +1,10 @@
-# Disclaimer #
+# The Fall of Hacker Groups - article and comments
 
 We do not own this content or its copyright. The original article is hosted on http://phrack.org/papers/fall_of_groups.html
 
-# Article #
+## Article
 
+```
 |=-----------------------------------------------------------------------=|
 |=--------------------=[ The Fall of Hacker Groups ]=--------------------=|
 |=-----------------------------------------------------------------------=|
@@ -178,14 +179,11 @@ times exhibitionist and needy.
 B) It is arguably the case, though, that the globalizing aspect of the
 Internet has brought the feeling of upsetting commonality to the citizens
 of even the more unpopulated places.
+```
 
+## Discussion
 
-
-
-
-# REPLIES #
-
-## Mimor ##
+### Mimor (April 2014)
 
 Indeed, interesting and relevant :)
 
@@ -213,9 +211,9 @@ But to get back to the point... :)
 I wonder whether there are still enough people that have it in them to
 withstand this crap and turn the space in a thriving creative environment.
 
-- - Mimor
+-Mimor
 
-## Merlin ##
+### Merlijn (April 2014)
 
 The observations made in the article are very true, and the "dangers" are very real. However, I think we have to be careful about what message we get from this.
 
@@ -225,7 +223,7 @@ Secondly, there is the question of what to do with this problem. The hacker cult
 
 We will not be able to change the people. At least not in the short run. What we can do is make a system that gets the best out of all these flawed people. A system that minimizes our flaws and enables us to be excellent.
 
-## Djef ##
+### Djef (April 2014)
 
 @Mimor the title is 'The Fall of Hacker Groups', a bit broader then hackerspaces
 but indeed the described trend can probably be seen broader.
@@ -252,10 +250,11 @@ http://0x20.be/Hack_the_hackerspace_v0.3
 
 On a positive note, I did the exercise of trying to think of active groups of the
 last couple of years that created an impact:
-console hacking https://fail0verflow.com/
-open whispersystems https://whispersystems.org/
-ccc - the impact of their conferences/camps is still growing http://events.ccc.de/
-iphone hacking http://blog.iphone-dev.org/
-free art and technology (f.a.t.) - http://fffff.at/
+
+* console hacking https://fail0verflow.com/
+* open whispersystems https://whispersystems.org/
+* ccc - the impact of their conferences/camps is still growing http://events.ccc.de/
+* iphone hacking http://blog.iphone-dev.org/
+* free art and technology (f.a.t.) - http://fffff.at/
 
 Somebody can add more to keep the inspiration going? :)
