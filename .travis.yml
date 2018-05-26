@@ -1,0 +1,16 @@
+language: r # This is apparently the best way to configure travis to install pandoc and latexhttps://github.com/jgm/pandoc/wiki/Using-pandoc-in-Travis-CI
+script: "pandoc --toc pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf"
+
+# deploy:
+#   provider: releases
+#   api_key: "$GH_TOKEN"
+#   file:
+#     - "workbook-7A.pdf"
+#     - "workbook-8A.pdf"
+#     - "workbook-Master.pdf"
+#     - "workbook-7A.epub"
+#     - "workbook-8A.epub"
+#     - "workbook-Master.epub"
+#   skip_cleanup: true
+#   on:
+#     tags: true
