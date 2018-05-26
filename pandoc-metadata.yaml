@@ -7,6 +7,9 @@
 # using latex. Pandoc will probably be the only interpreter that does something useful with it.
 #   source: https://tex.stackexchange.com/questions/139139/adding-headers-and-footers-using-pandoc
 #
+title: "Hack the Hackerspace: empowering people to be awesome"
+author: [Hackerspace Gent]
+tags: [Markdown, Example]
 header-includes: |
     \usepackage{sectsty}
     \sectionfont{\clearpage}

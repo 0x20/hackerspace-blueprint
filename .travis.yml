@@ -10,9 +10,10 @@ addons:
     - texlive-latex-extra
     - texlive-fonts-recommended
     - texlive-fonts-extra
+    - latex-xcolor
     - dvipng
     - lmodern
-script: pandoc --toc pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf
+script: pandoc pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --template eisvogel.tex --toc --listings --metadata date="`date +%D`"
 deploy:
   provider: releases
   api_key:
