@@ -1,18 +1,20 @@
-language: bash
-addons:
-  apt:
-    packages:
-    - pandoc
-    - texlive-xetex
-    - texlive-plain-extra
-    - texlive-generic-recommended
-    - texlive-latex-recommended
-    - texlive-latex-extra
-    - texlive-fonts-recommended
-    - texlive-fonts-extra
-    - dvipng
-    - lmodern
-script: pandoc --toc pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf
+language: R
+# addons:
+#   apt:
+#     packages:
+#     - pandoc
+#     - texlive-xetex
+#     - texlive-plain-extra
+#     - texlive-generic-recommended
+#     - texlive-latex-recommended
+#     - texlive-latex-extra
+#     - texlive-fonts-recommended
+#     - texlive-fonts-extra
+#     - latex-xcolor
+#     - dvipng
+#     - lmodern
+install: tlmgr install mdframed collection-latexrecommended collection-latexextra collection-fontsrecommended collection-fontsextra xcolor dvipng collection-plaingeneric
+script: pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --template eisvogel.tex --toc --listings --metadata date="`date +%D`"
 deploy:
   provider: releases
   api_key:
