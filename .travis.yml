@@ -1,16 +1,23 @@
-language: r # This is apparently the best way to configure travis to install pandoc and latexhttps://github.com/jgm/pandoc/wiki/Using-pandoc-in-Travis-CI
-script: "pandoc --toc pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf"
-
-# deploy:
-#   provider: releases
-#   api_key: "$GH_TOKEN"
-#   file:
-#     - "workbook-7A.pdf"
-#     - "workbook-8A.pdf"
-#     - "workbook-Master.pdf"
-#     - "workbook-7A.epub"
-#     - "workbook-8A.epub"
-#     - "workbook-Master.epub"
-#   skip_cleanup: true
-#   on:
-#     tags: true
+language: bash
+addons:
+  apt:
+    packages:
+    - pandoc
+    - texlive-xetex
+    - texlive-plain-extra
+    - texlive-generic-recommended
+    - texlive-latex-recommended
+    - texlive-latex-extra
+    - texlive-fonts-recommended
+    - texlive-fonts-extra
+    - dvipng
+    - lmodern
+script: pandoc --toc pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf
+deploy:
+  provider: releases
+  api_key:
+    secure: cIRIKuDWejK79Kojh2URkQBmQcKDJtH/MmrzgCySQ7ArjbZ6/cPkS014QbNmUft4GiRGZzIiulfkkvLtdT4UVGVXEw7gTK/V5b6bEci6fst4rDPL/hCDeXcLutOxcOwb7vei38V5XhE+1D2UcFQFNJFkeo60WKWR9ybIQ7pAemo=
+  file: hack-the-hackerspace.pdf
+  skip_cleanup: true
+  on:
+    repo: 0x20/HTH
