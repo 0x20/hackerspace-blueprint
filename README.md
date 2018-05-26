@@ -11,7 +11,7 @@ We created our very own Ghent hackerspace. We had two rules: be excellent to eac
 * We cannot rely on common sense because **people have different realities.**
 * **People have different, conflicting goals.** Because of that, consensus will never be reached on certain things. Problems will arise and they will not be solved. In most cases, no solution is worse than a bad solution.
 
-We knew that, in order to fix this, we needed a system that gets the best out of everyone and enables us to be awesome! After long late-night discussions, we came up with "Hack the Hackerspace" (HTH), a document that describes how to run a hackerspace in a way that brings out the best in people.
+We knew that, in order to fix this, we needed a system that gets the best out of everyone and enables us to be awesome! After long late-night discussions, we came up with "Hack the Hackerspace" (HTH), a document that describes how to run a hackerspace in a way that brings out the best in people. **To get the latest PDF version of this document, go [here](https://github.com/0x20/HTH/releases/latest) and download the file `hack-the-hackerspace.pdf.**
 
 We have been refining this system for a few years now, tweaking the system when we encounter issues and explaining important parts in more details. This document specifically describes how Hackerspace Gent runs, but it is generic enough so that it can be easily adapted to other hackerspaces and similar organizations. Feel free to use and remix this for your own benefit, learn from our mistakes and let us know what you think of it!
 
