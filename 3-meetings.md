@@ -19,7 +19,7 @@ Things you can discuss on a meeting:
 
 ## How do I schedule a meeting?
 
-Any member can shedule a meeting.
+Any member can schedule a meeting.
 
 1. Create a pad for the meeting topics and the meeting notes.
 2. Pick a date (preferably not during the social evening).
@@ -64,7 +64,7 @@ More important information from the statutes.
 
 Most decisions don't require a rigid structure but we need a rigid structure to fall back on when there is extreme conflict that divides the space or when people don't agree on how a decision is made. In such cases, a consensus-based system is used in order to re-unite the space.
 
-In short; the topic needs to be put on the agenda three days the first meeting. During the first meeting, a decision needs 100% consensus. If no decision is made, a second meeting is sheduled where a decision on a topic only requires 80% consensus, so a decision is made when 20% or less members object. If no decision is made, a third meeting is sheduled where a decision is made using the "point system", an over-complicated system where a decision will always be made.
+In short; the topic needs to be put on the agenda three days the first meeting. During the first meeting, a decision needs 100% consensus. If no decision is made, a second meeting is scheduled where a decision on a topic only requires 80% consensus, so a decision is made when 20% or less members object. If no decision is made, a third meeting is scheduled where a decision is made using the "point system", an over-complicated system where a decision will always be made.
 
 | PLAN/TIME                       | ACTION                                                      | DECISION       |
 | ------------------------------- |:-----------------------------------------------------------:| --------------:|
@@ -104,7 +104,7 @@ The point system is a **last-resort** option. This should not be the general pro
 
 * Each voter has a certain number of points that he can distribute over the different proposals.
 * The proposal with the most points wins.
-* In case of tie; revote.
+* In case of tie; re-vote.
 * **Number of points per voter  =** `(#_of_options * 2 ) + 1`
 * Results should be given to the group in binary format: what proposal won and what lost. This is to strengthen the support of the decision.
 

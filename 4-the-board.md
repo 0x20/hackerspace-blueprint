@@ -4,7 +4,7 @@ The board exists to make sure the hacker environment survives. The board members
 
 Specifically, the board has two roles, and for everything that doesn't fall into these roles, the board members are regarded as regular members.
 
-1. *Warden of the physical core infrastructure of the space.* This stems from [the infrastructure pattern](https://wiki.hackerspaces.org/The_Infrastructure_Pattern). Provide a room with power, internet, a bar and [a kitchen](https://wiki.hackerspaces.org/The_Kitchen_Pattern) and the hackers will come. An important aspect of this is keeping a good relationship with the surroundings as said in [the landlord and neighbourhood pattern](https://wiki.hackerspaces.org/The_Landlord_and_Neighbourhood_Pattern).
+1. *Warden of the physical core infrastructure of the space.* This stems from [the infrastructure pattern](https://wiki.hackerspaces.org/The_Infrastructure_Pattern). Provide a room with power, internet, a bar and [a kitchen](https://wiki.hackerspaces.org/The_Kitchen_Pattern) and the hackers will come. An important aspect of this is keeping a good relationship with the surroundings as said in [the landlord and neighborhood pattern](https://wiki.hackerspaces.org/The_Landlord_and_Neighbourhood_Pattern).
 2. *Counselor for the people in the space.* When conflict happens that can't be resolved in the group, the board is responsible for resolving the conflict. A great way to do this is [the private talk pattern](https://wiki.hackerspaces.org/The_Private_Talk_Pattern): go talk to the involved parties in private, listen to the person and let them know how the group feels.
 
 It's important for the board to communicate openly about what they do.

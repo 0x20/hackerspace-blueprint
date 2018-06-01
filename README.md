@@ -23,6 +23,6 @@ The main system running the Hackerspace is **the do-ocracy**, explained further 
 
 However, when you want to do something that affect a lot of people in the space, or when you want to make sure that people will support what you want to do, discuss it with the other members on a **meeting** as explained in Section 3.
 
-Every organisation has a number of unspoken guidelines of how you should behave, we have written down some of ours in Section 6 in order to make it easier for people to get a sense of what to do in certain situations. These **guidelines** are not meant to be strict rules, but they give an overview of what is good and bad behavior in the space.
+Every organization has a number of unspoken guidelines of how you should behave, we have written down some of ours in Section 6 in order to make it easier for people to get a sense of what to do in certain situations. These **guidelines** are not meant to be strict rules, but they give an overview of what is good and bad behavior in the space.
 
 Because every good idea that was once written down has been misinterpreted, we included information that led us to the system and the guidelines. We call it **the legacy**. It is a collection of information that we used to create Hack the Hackerspace, it gives more context to why the system is the way it is. The legacy should by used as a "cipher" to interpret the system and the guidelines correctly and to explain a bit of the rationale behind them.
