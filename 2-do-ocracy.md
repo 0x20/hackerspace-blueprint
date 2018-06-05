@@ -21,8 +21,6 @@ People need to feel safe knowing that they are allowed to try, and to fail. Thus
 
 Tight feedback loop: It's easy to do something, so it's very easy to try something, see what the result is, and then use that information to try something different.
 
-Merlijn is leuk
-
 ## Boundaries
 
 Some things are too sensitive to be handled by do-ocracy alone, like throwing things away. The guidelines define what the boundaries are of the Do-ocracy. Any member can request that a decision is discussed in the group.
