@@ -21,6 +21,7 @@ People need to feel safe knowing that they are allowed to try, and to fail. Thus
 
 Tight feedback loop: It's easy to do something, so it's very easy to try something, see what the result is, and then use that information to try something different.
 
+Merlijn is leuk
 
 ## Boundaries
 
