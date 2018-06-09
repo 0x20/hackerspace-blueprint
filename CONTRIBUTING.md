@@ -11,5 +11,5 @@ sudo apt install pandoc
 Generate the print version using `pandoc`.
 
 ```bash
-pandoc pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --template eisvogel.tex --toc --listings --metadata date="`date +%D`"
+pandoc pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --template eisvogel.tex --toc --listings --metadata date="`date +%D`" --include-before-body=include-cover.tex
 ```
