@@ -14,7 +14,7 @@ language: R
 #     - dvipng
 #     - lmodern
 install: tlmgr install mdframed mweights needspace sourcecodepro sourcesanspro collection-fontsextra
-script: pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --template eisvogel.tex --toc --listings --metadata date="`date +%D`"
+script: pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --template eisvogel.tex --toc --listings --metadata date="`date +%D`" --include-before-body=include-cover.tex
 deploy:
   provider: releases
   api_key:
