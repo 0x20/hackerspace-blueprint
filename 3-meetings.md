@@ -22,7 +22,7 @@ Things you can discuss on a meeting:
 Any member can schedule a meeting.
 
 1. Create a pad for the meeting topics and the meeting notes.
-2. Pick a date (preferably not during the social evening).
+2. Pick a date (preferably on a Sunday).
 3. Put the meeting in the calendar with a link to the meeting notes, announce it in the main channel and put a link in the changelog.
 
 ## How do we make a decision during a meeting?
