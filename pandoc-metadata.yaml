@@ -7,9 +7,11 @@
 # using latex. Pandoc will probably be the only interpreter that does something useful with it.
 #   source: https://tex.stackexchange.com/questions/139139/adding-headers-and-footers-using-pandoc
 #
-title: "Hack the Hackerspace: empowering people to be awesome"
-author: [Hackerspace Gent]
-tags: [Markdown, Example]
+title: "Hack The Hackerspace Manifesto: empowering people to be awesome"
+author: [Merlijn Sebrechts, Hackerspace Gent]
+tags: [Do-ocracy, Hackerspace, Self-governance, Structureless Organizations]
+language: en
+rights: CC BY-SA 4.0
 header-includes: |
     \usepackage{sectsty}
     \sectionfont{\clearpage}
