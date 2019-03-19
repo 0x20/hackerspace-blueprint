@@ -3,18 +3,23 @@
 # This document contains some pandoc-specific metadata.
 #
 #
-# This is an inline yaml metadata code block that specifies custom headers and footers
-# using latex. Pandoc will probably be the only interpreter that does something useful with it.
-#   source: https://tex.stackexchange.com/questions/139139/adding-headers-and-footers-using-pandoc
 #
 title: "Hack The Hackerspace Manifesto: empowering people to be awesome"
 author: [Merlijn Sebrechts, Hackerspace Gent]
 tags: [Do-ocracy, Hackerspace, Self-governance, Structureless Organizations]
 language: en
 rights: CC BY-SA 4.0
+toc: true
+toc-title: "Table of Contents"
+#
+# Options specific to Latex (PDF version)
+#
+links-as-notes: yes
+# This is an inline yaml metadata code block that specifies custom headers and footers
+# using latex. Pandoc will probably be the only interpreter that does something useful with it.
+#   source: https://tex.stackexchange.com/questions/139139/adding-headers-and-footers-using-pandoc
 header-includes: |
     \usepackage{sectsty}
     \sectionfont{\clearpage}
     \usepackage{pdfpages}
-links-as-notes: yes
 ---

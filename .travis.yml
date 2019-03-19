@@ -5,7 +5,11 @@ addons:
     - poppler-utils
 install: tlmgr install mdframed mweights needspace sourcecodepro sourcesanspro collection-fontsextra pdfjam
 script: |
-  pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --template eisvogel.tex --toc --listings --metadata date="`date +%D`" --include-before-body=include-cover.tex --include-after-body=include-back.tex
+  # Generate epub
+  pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.epub --metadata date="`date +%D`" --toc-depth=2 --epub-embed-font='epub-fonts/*.ttf' --css=epub.css
+  # Generate PDF
+  pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --metadata date="`date +%D`" --template eisvogel.tex --include-before-body=include-cover.tex --include-after-body=include-back.tex
+  # Generate booklet
   numpages=$(pdfinfo hack-the-hackerspace.pdf | awk '/^Pages/ { print $2}')
   pdfbook hack-the-hackerspace.pdf 2-$(($numpages-2)) -o hack-the-hackerspace-booklet-body.pdf
 deploy:
@@ -13,6 +17,7 @@ deploy:
   api_key:
     secure: cIRIKuDWejK79Kojh2URkQBmQcKDJtH/MmrzgCySQ7ArjbZ6/cPkS014QbNmUft4GiRGZzIiulfkkvLtdT4UVGVXEw7gTK/V5b6bEci6fst4rDPL/hCDeXcLutOxcOwb7vei38V5XhE+1D2UcFQFNJFkeo60WKWR9ybIQ7pAemo=
   file:
+    - hack-the-hackerspace.epub
     - hack-the-hackerspace.pdf
     - hack-the-hackerspace-booklet-cover.pdf
     - hack-the-hackerspace-booklet-body.pdf
