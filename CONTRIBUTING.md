@@ -1,6 +1,6 @@
-# Contributing to Hack the Hackerspace
+# Contributing to the hackerspace blueprint
 
-## Building Hack the Hackerspace
+## Building the book
 
 First install the build tools.
 
@@ -11,13 +11,11 @@ sudo apt install pandoc texlive-plain-generic texlive-latex-extra texlive-fonts-
 Generate the print version using `pandoc`.
 
 ```bash
-pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --template eisvogel.tex --toc --listings --metadata date="`date +%D`" --include-before-body=include-cover.tex --include-after-body=include-back.tex
-```
-
-Generate the booklet version from the print version. The cover and back should be printed separately.
-
-```bash
-pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hack-the-hackerspace.pdf --template eisvogel.tex --toc --listings --metadata date="`date +%D`" --include-before-body=include-cover.tex
-numpages=$(pdfinfo hack-the-hackerspace.pdf | awk '/^Pages/ { print $2}')
-pdfbook hack-the-hackerspace.pdf 2-$(($numpages-2)) -o hack-the-hackerspace-booklet-body.pdf
+  # Generate epub
+  pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hackerspace-blueprint.epub --metadata date="`date +%D`" --toc-depth=2 --epub-embed-font='epub-fonts/*.ttf' --css=epub.css
+  # Generate PDF
+  pandoc --verbose pandoc-metadata.yaml README.md [0-9]*.md -o hackerspace-blueprint.pdf --metadata date="`date +%D`" --template eisvogel.tex --include-before-body=include-cover.tex --include-after-body=include-back.tex
+  # Generate booklet
+  numpages=$(pdfinfo hackerspace-blueprint.pdf | awk '/^Pages/ { print $2}')
+  pdfbook hackerspace-blueprint.pdf 2-$(($numpages-2)) -o hackerspace-blueprint-booklet-body.pdf
 ```

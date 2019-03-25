@@ -24,7 +24,7 @@ When a conflict/problem can not be resolved between individuals/via do-ocracy or
 
 The members should do the following things as a group.
 
-* Creating and patching Hack the Hackerspace.
+* Creating and patching the hackerspace blueprint.
 * Solve problems in the hackerspace when do-ocracy cannot fix them.
 * Electing the board during a General Assembly.
 

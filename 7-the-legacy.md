@@ -2,7 +2,7 @@
 
 Because every good idea that was once written down has been misinterpreted, we included information that led us to the system and the guidelines in this repository as The Legacy. This should by used as a "cipher" to interpret the system and the guidelines correctly and to explain a bit of the rationale behind them.
 
-Some of these documents, discussions and comments on them are archived in the `legacy` folder of [the Hack the Hackerspace repository](https://github.com/0x20/HTH).
+Some of these documents, discussions and comments on them are archived in the `legacy` folder of [the hackerspace blueprint repository](https://github.com/0x20/HTH).
 
 * [**The fall of the hacker groups**](The_Fall_of_Hacker_Groups) makes the claim that it is becoming rare for creativity to arise from groups or teams. Even though the technological advances should make it easier to create and maintain hacker groups, they are becoming increasingly rare. The author poses the theory that this is because the same technological revolution bombards us with a constant flow of information and fear, and because we dread the thought of being alike, of sharing multiple views and opinions. As such, we are turning progressively judgmental of who we should be partnering with, on the basis that "they do not understand".
 
