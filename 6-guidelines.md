@@ -51,11 +51,6 @@ All personal property that is not in a members box has to be labeled (including 
 * If you use one of the public workstations, please shut it off when you are done.
 * if you use the printer, please deposit some cash to pay for consumables
 
-##### Space property that requires you to follow a workshop before use
-
-* ~~3D printer~~ (Broken: if you can fix it, you're the new expert!)
-* Table saw
-
 #### 6.2.2.2 Damaging or losing space property
 
 If you damage or lose space property, you have to notice the Group Of Members immediately via the mailing-list. In the mail, you say what happened and if/how you will fix it. If the Group Of Members do not agree to this, they will have to put it forward on the next meeting.
