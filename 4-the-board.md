@@ -13,10 +13,10 @@ Both jobs are critically important to the space. Many hackerspaces disbanded bec
 
 ## Why is there a board?
 
-There are two reasons why Hackerspace Ghent has a board:
+There are two reasons why Hackerspace Gent has a board:
 
 - A Belgian non-profit organization (VZW) requires a board which is legally liable in case something goes wrong. In the past, we had a board on paper, but the space was completely run by consensus. This caused a bunch of issues since the board was legally liable, but it didn't actually have any power to prevent bad things from happening.
-- People don't like conflict and confrontation. If nobody speaks up and nobody actively tries to resolve conflicts, people just ignore it until it explodes, taking down half the space with it. Hackerspace Ghent almost disbanded after such an explosion and we vowed to never have it again. Thus, the board is responsible for speaking up and fixing conflicts, even if that is really uncomfortable.
+- People don't like conflict and confrontation. If nobody speaks up and nobody actively tries to resolve conflicts, people just ignore it until it explodes, taking down half the space with it. Hackerspace Gent almost disbanded after such an explosion and we vowed to never have it again. Thus, the board is responsible for speaking up and fixing conflicts, even if that is really uncomfortable.
 
 ## What power does the board have?
 
