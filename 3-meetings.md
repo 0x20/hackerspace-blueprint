@@ -51,7 +51,7 @@ The statutes dictate the following.
 
 You can find the latest version of the statutes in the Government gazette (staatsblad) (Dutch-language).
 
-1. Go to http://www.ejustice.just.fgov.be/tsv/tsvn.htm
+1. Go to <http://www.ejustice.just.fgov.be/tsv/tsvn.htm>
 2. Fill in `0x20` in the "Benaming" field and press the "Opzoeking" button. Now you should see a number next to the "opzoeking" button, this is how many search results there are. *0x20 is the short name for "Hackerspace Gent", previously "Whitespace".*
 3. Press the "lijst" button to see all the search results.
 
@@ -84,13 +84,13 @@ The topic is discussed in group and requires a 100% consensus to reach a group d
 * encourages discussion
 * forced to listen to opposing ideas that can give new insights
 * they can bring smarter compromises
-* http://en.wikipedia.org/wiki/Consensus
+* <http://en.wikipedia.org/wiki/Consensus>
 
 The required 100% consensus also means that a very small minority can block a decision. That is a desired feature but it comes with a responsibility. When a small minority or even an individual feels very strongly that a proposed decision is not correct they have the option to block a decision. This does not stop a decision but gives the opposers 1 week of time. During that week the minority has the task to convince fellow members of their viewpoint.
 
 ### Meeting 2
 
-The topic is discussed again but now a rough consensus of 80% is applied to reach a decision (https://en.wikipedia.org/wiki/Rough_consensus). If the small minority of last week was not able to convince enough fellow members the decision will be passed with rough consensus of 80%. When their viewpoint makes enough sense to fellow members, critical mass must be found to reach a new compromise. All members joining the discussion must strive to reach the rough consensus, to build the compromise. Not doing so is not being excellent.
+The topic is discussed again but now a rough consensus of 80% is applied to reach a decision (<https://en.wikipedia.org/wiki/Rough_consensus>). If the small minority of last week was not able to convince enough fellow members the decision will be passed with rough consensus of 80%. When their viewpoint makes enough sense to fellow members, critical mass must be found to reach a new compromise. All members joining the discussion must strive to reach the rough consensus, to build the compromise. Not doing so is not being excellent.
 
 ### Meeting 3
 
