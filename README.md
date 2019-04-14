@@ -24,7 +24,7 @@ The main system running the Hackerspace is **the do-ocracy**, explained further 
 
 However, when you want to do something that is irreversible or affects the core infrastructure of the space, you can discuss it with members on a **meeting** as explained in Section 3. These meetings can also be used to make sure that people will support what you want to do.
 
-There are two issues that are hard to fix using do-ocracy and meetings: interpersonal conflict and core infrastructure maintenance. Section 4 explains how **the board** solves these issues as the "custodians" and "counselors" of the space. Unlike many other organizations, the board has no power over what the space should do.
+There are two issues that are hard to fix using do-ocracy and meetings: interpersonal conflict and core infrastructure maintenance. Section 4 explains how **the board** solves these issues as the "wardens" and "counselors" of the space. Unlike many other organizations, the board has no power over what the space should do.
 
 Section 5 explains how you become a **member** of the space.
 
