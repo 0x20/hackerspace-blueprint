@@ -20,7 +20,7 @@ Why this process?
 
 *The members create and maintain the hacker environment.*
 
-When a conflict/problem can not be resolved between individuals, via do-ocracy or when it impacts the group, a group decision is required. Any member can request that a decision is made by the group of members instead of by do-ocracy or individual members.
+When a conflict/problem can not be resolved between individuals, via do-ocracy or when it impacts the group, a group decision is required. Any member can request that a decision is made on a meeting instead of by do-ocracy or individual members.
 
 The members should do the following things as a group.
 
