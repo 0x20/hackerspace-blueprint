@@ -6,7 +6,7 @@
 * Have you done something? **Great!, now tell others about it.** Tell them what you did, and why you did it. A shared chat room or mailing list is a great place to do so. Telling other people about your actions lets them know who to thank and will give you more support.
 * If somebody complains: Either **revert it**, or work out a solution with the person who is complaining.
 
-A do-ocracy is an organizational structure in which individuals choose to pick up roles and execute tasks by themselves, rather than getting them appointed by others. Responsibilities and authority are attached to people who do the work, rather than to the elected/selected officials. **Doing a task is in itself justification for you being the person who does that job.**
+Do-ocracy is an organizational structure in which individuals choose to pick up roles and execute tasks by themselves, rather than getting them appointed by others. Responsibilities and authority are attached to people who do the work, rather than to the elected/selected officials. **Doing a task is in itself justification for you being the person who does that job.**
 
 ## Why not Democracy or Consensus?
 
@@ -14,22 +14,22 @@ Democracy and Consensus suffer from the same issue: everyone has an opinion abou
 
 * It takes up a lot of time and energy that could be better spent actually doing stuff.
 * It's very easy for problems to not get solved because the group doesn't agree on what the best solution is. This is a big issue because **a bad solution is often better than no solution.**
-* It puts too much focus on the idea instead of on the execution, even though research shows that the execution of a decision is often more important than the decision itself.
-* Group decision making often leads to diluted outcomes, that contain elements of everyone's opinion but that nobody supports fully. As a result, people will be less enthusiastic about putting time and energy into actually doing the thing. This will eventually lead to worse outcomes because the impact of a well-executed good idea is a lot better than that of a badly-executed perfect idea.
+* It puts too much focus on the idea instead of its execution, even though research shows that the execution of a decision is often more important than the decision itself.
+* Group decision making often leads to diluted outcomes, that contain elements of everyone's opinion but that nobody fully supports. As a result, people will be less enthusiastic about putting time and energy into actually doing the thing. This will eventually lead to worse outcomes because the impact of a well-executed good idea is a lot better than that of a badly-executed perfect idea.
 * It rewards armchair critics and armchair activists. If the only thing you want to contribute is your opinion, you should not force other people to take that opinion into account.
-* It encourages long feedback loops: because it takes a long time to make a decision, decisions need to be as perfect as possible. This is because it will take a long time to fix any issues. The fear of a bad decision will causing longer, more elaborate debate which increases the time it takes to make a decision. Modern software development practices such as Agile, Scrum and Kanban all stress the importance of having short feedback loops.
+* It encourages long feedback loops: because it takes a long time to make a decision, decisions need to be as perfect as possible. This is because it will take a long time to fix any issues. The fear of a bad decision will cause longer, more elaborate debate which increases the time it takes to make a decision. Modern software development practices such as Agile, Scrum and Kanban all stress the importance of having short feedback loops.
 
 ## How?
 
-A do-ocracy naturally emerges when the environment is right. There are a number of factors that are important.
+A do-ocracy naturally emerges when the environment is right. There are a number of important factors.
 
-* **Allow people to fail.** People need to feel safe knowing that they are allowed to try, and to fail. Thus, when people fail, we need to be kind and help them get better instead of berate them. The hackerspace gives everyone room to grow, and failure is part of that. For more information, read up on the idea of "blameless post-mortems" in the IT operations and DevOps communities.
+* **Allow people to fail.** People need to feel safe knowing that they are allowed to try, and to fail. Thus, when people fail, we need to be kind and help them get better instead of berating them. The hackerspace gives everyone room to grow, and failure is part of that. For more information, read up on the idea of "blameless post-mortems" in the IT operations and DevOps communities.
 * **Ask for help and help others.**
 * **Trust each other.**
 * **Focus on what you have in common instead of what you disagree on.**
 * **Recognize and reward the people doing stuff.**
 
-## Non-coercive authority
+## Noncoercive authority
 
 > "Coercive power is the ability to influence someone's decision making by taking something away as punishment or threatening punishment if the person does not follow instructions."
 
@@ -47,7 +47,7 @@ Some things are too sensitive to be handled by do-ocracy alone, or are irreversi
 
 In general, if an action is irreversible, do-ocracy does not apply and you should discuss it with the larger group.
 
-## A do-ocracy is not a ..
+## A do-ocracy is not a ...
 
 * **Democracy** - In a democracy, everyone has a say in what gets done. In a do-ocracy, everyone does jobs that they think need to be done, **without everyone’s input.**
 * **Meritocracy** - In a meritocracy, the most qualified people for a job are selected for that job. In a do-ocracy, whoever does the job gets it, no matter how well they’re qualified.

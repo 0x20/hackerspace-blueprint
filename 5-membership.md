@@ -20,11 +20,11 @@ Why this process?
 
 *The members create and maintain the hacker environment.*
 
-When a conflict/problem can not be resolved between individuals/via do-ocracy or when it impacts the group, a group decision is required. Any member can request that a decision is made by the Group Of Members instead of by do-ocracy/individual members.
+When a conflict/problem can not be resolved between individuals, via do-ocracy or when it impacts the group, a group decision is required. Any member can request that a decision is made by the group of members instead of by do-ocracy or individual members.
 
 The members should do the following things as a group.
 
-* Creating and patching the hackerspace blueprint.
+* Create and patch the hackerspace blueprint.
 * Solve problems in the hackerspace when do-ocracy cannot fix them.
 * Electing the board during a General Assembly.
 

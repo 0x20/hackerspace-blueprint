@@ -51,15 +51,15 @@ There is a clear distinction between "personal" and "space" projects. Keep this 
 * So when using something, clean it afterwards and put it back in it's place.
 * If you are not trained to use tool X, don't use tool X but ask an expert to teach you first.
 * If you use one of the public workstations, please shut it off when you are done.
-* if you use the printer, please deposit some cash to pay for consumables
+* If you use the printer, please deposit some cash to pay for consumables.
 
 #### Damaging or losing space property
 
-If you damage or lose space property, you have to notice the community immediately in the Changelog or the Main channel on mattermost. Explain what happened and if/how you will fix it.
+If you damage or lose space property, you have to notice the community immediately in the Changelog or Main channel on mattermost. Explain what happened and if/how you will fix it.
 
 #### Taking space property out of the space
 
-Only members are allowed to take space property out of the space. If you take space property out of the space, you have to notify the community immediately, for example in the "changelog" or "main" channels on Mattermost. If a somebody disagrees with you taking it out of the space, make that person happy or put it back.
+Only members are allowed to take space property out of the space. If you take space property out of the space, you have to notify the community immediately, for example in the Changelog or Main channel on Mattermost. If a someone disagrees with you taking it out of the space, make that person happy or put it back.
 
 ## Space maintenance
 
@@ -95,7 +95,7 @@ People are trying to concentrate in here so:
 
 * Mind your voice, volume. If you are talking to someone on the other side of the space, everyone in between can hear you; move closer.
 * We know you like X music, but use headphones or keep the volume low.
-* If need to make a lot of noise, ask if you are not intruding/disturbing.
+* If you need to make a lot of noise, ask if you are not intruding/disturbing.
 * Some moments are 'louder' than others, so it's not always easy to follow. Sometimes library/office-rules apply, sometimes workshop-rules and sometimes bar-rules. When in doubt, check with the other members.
 
 ### Network/security
