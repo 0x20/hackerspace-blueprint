@@ -16,7 +16,7 @@ First and foremost, [the golden rule](http://en.wikipedia.org/wiki/Golden_Rule):
 
 ## Loopholes
 
-The goal of the do-ocracy and these guidelines is to create an awesome community. The do-ocracy gives you a lot of freedom, but you need to use it wisely. People who try to exploit loopholes in this system to do things that damage the community cannot handle the freedom of a do-ocracy and will be pushed out very quickly. Do not read these guidelines like a lawyer, but read it like a cookbook. It doesn't matter if you add a bit more sugar, as long as your goal is to make the cake better.
+The goal of the do-ocracy and these guidelines is to create an awesome community. The do-ocracy gives you a lot of freedom, but you need to use it wisely. People who try to exploit loopholes in this system to do things that damage the community cannot handle the freedom of a do-ocracy and will be pushed out very quickly. Do not read these guidelines like a lawbook, but read it like a cookbook. It doesn't matter if you use a bit more sugar than the recipe says, as long as your goal is to make the cake better.
 
 ## Projects
 

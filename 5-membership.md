@@ -2,7 +2,7 @@
 
 ## How do I become a member?
 
-1. Fill in the membership application form and get two people to sign as sponsors. They will be responsible for making sure you get settled nicely, that you understand how the hackerspace works, and know how you can participate.
+1. Fill in [the membership application form](https://wiki.hackerspace.gent/Membership_form) and get two people to sign as sponsors. They will be responsible for making sure you get settled nicely, that you understand how the hackerspace works, and know how you can participate.
 2. Attend a meeting and present your application. On this meeting you announce you want to become a member and who your sponsors are. If you want you can talk a bit about why you're interested in the space. *Note: this meeting is simply an announcement. Your membership won't be discussed further, and no decision about it will be made on that meeting.*
 3. On the next meeting, your membership will be decided upon. It's useful to have you present at that meeting, but this is not a requirement. As a bonus for coming to the meeting, membership is often the first thing to be decided on a meeting. When you get voted in, you can join the rest of the meeting as a member! Membership decisions at a meeting follow the same process as other meeting decisions. See Chapter 3 for more info.
 4. Create an automatic bank transfer to transfer the membership fee each month. You will get your key after you made your first payment.
