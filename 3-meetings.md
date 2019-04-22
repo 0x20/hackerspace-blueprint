@@ -35,7 +35,7 @@ Note that this intentionally favors the "yes" vote: there is a slight barrier to
 
 [Consensus-based decision making](https://en.wikipedia.org/wiki/Consensus_decision-making) aims to involve as many stakeholders as possible in a decision. This is the exact opposite from our system, where we want to involve as few stakeholders as possible in a decision, in order to lower the barrier to "doing" as much as possible. Do-ocracy gives as much power as possible to the person doing it, instead of to the persons who have an opinion on it. When you want to do something, you have to make sure that nobody will hate it, instead of making sure that everyone is pleased.
 
-Having as many people as possible involved in a discussion encourages [Bikeshedding](http://phk.freebsd.dk/sagas/bikeshed.html): long useless discussion about trivial details that don't really matter in the bigger picture. This idea stems from Parkinson's [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality), which shows that you can easily get approval for building a multi-million dollar atomic power plant, but if you want to build a bike shed, you will be tangled up in endless discussions about the color of the shed. This is because a power plant is so complicated that people cannot grasp it, while anyone can build a bike shed over the weekend so everyone can comment on it. People enjoy commenting on it because they want to be part of the discussion and they want to add a touch and show personal contribution. Although for the people voicing their opinion this might be enjoyable, it easily kills the passion of the person who wants to get things done, and it slows everything down to a crawl.
+Having as many people as possible involved in a discussion encourages [Bikeshedding](http://bikeshed.com/): long useless discussion about trivial details that don't really matter in the bigger picture. This idea stems from Parkinson's [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality), which shows that you can easily get approval for building a multi-million dollar atomic power plant, but if you want to build a bike shed, you will be tangled up in endless discussions about the color of the shed. This is because a power plant is so complicated that people cannot grasp it, while anyone can build a bike shed over the weekend so everyone can comment on it. People enjoy commenting on it because they want to be part of the discussion and they want to add a touch and show personal contribution. Although for the people voicing their opinion this might be enjoyable, it easily kills the passion of the person who wants to get things done, and it slows everything down to a crawl.
 
 ## General Assembly and Statutes
 
@@ -66,16 +66,16 @@ Most decisions don't require a rigid structure but we need a rigid structure to 
 
 In short; the topic needs to be put on the agenda three days before the first meeting. During the first meeting, a decision needs 100% consensus. If no decision is made, a second meeting is scheduled where a decision on a topic only requires 80% consensus, so a decision is made when 20% or less members object. If no decision is made, a third meeting is scheduled where a decision is made using the "point system", an over-complicated system where a decision will always be made.
 
-| PLAN/TIME                       | ACTION                                                      | DECISION       |
-| ------------------------------- |:-----------------------------------------------------------:| --------------:|
-| Week before meeting             | Put the topic on the agenda three days before the meeting   |                |
-| Meeting 1                       | Discuss in group, listen, learn and build compromise        | 100% consensus |
-| Meeting 2                       | Discuss in group, listen, learn and build compromise        | 80% consensus  |
-| Meeting 3                       | Discuss in group, listen, learn and build compromise        | Point system   |
+| PLAN/TIME                             | ACTION                                                      | DECISION       |
+| ------------------------------------- |:-----------------------------------------------------------:| --------------:|
+| Three or more days before the meeting | Put the topic on the agenda.                                |                |
+| Meeting 1                             | Discuss in group, listen, learn and build compromise        | 100% consensus |
+| Meeting 2                             | Discuss in group, listen, learn and build compromise        | 80% consensus  |
+| Meeting 3                             | Discuss in group, listen, learn and build compromise        | Point system   |
 
 ### Week before meeting
 
-The topic is put on the agenda of the weekly meeting and is announced on the Mattermost (chat) server. This needs to be at least 3 days in advance.
+The topic is put on the agenda of the meeting and is announced on the Mattermost (chat) server. This needs to be at least 3 days in advance.
 
 ### Meeting 1
 
@@ -86,11 +86,11 @@ The topic is discussed in group and requires a 100% consensus to reach a group d
 * they can bring smarter compromises
 * <http://en.wikipedia.org/wiki/Consensus>
 
-The required 100% consensus also means that a very small minority can block a decision. That is a desired feature but it comes with a responsibility. When a small minority or even an individual feels very strongly that a proposed decision is not correct they have the option to block a decision. This does not stop a decision but gives the opposers 1 week of time. During that week the minority has the task to convince fellow members of their viewpoint.
+The required 100% consensus also means that a very small minority can block a decision. That is a desired feature but it comes with a responsibility. When a small minority or even an individual feels very strongly that a proposed decision is not correct they have the option to block a decision. This does not stop a decision completely because only the first meeting requires a full consensus. This means that the opposers need to use the time between the first and the second meeting to convince their fellow members of their viewpoint.
 
 ### Meeting 2
 
-The topic is discussed again but now a rough consensus of 80% is applied to reach a decision (<https://en.wikipedia.org/wiki/Rough_consensus>). If the small minority of last week was not able to convince enough fellow members the decision will be passed with rough consensus of 80%. When their viewpoint makes enough sense to fellow members, critical mass must be found to reach a new compromise. All members joining the discussion must strive to reach the rough consensus, to build the compromise. Not doing so is not being excellent.
+The topic is discussed again but now a rough consensus of 80% is required to reach a decision (<https://en.wikipedia.org/wiki/Rough_consensus>). If the small minority of last week was not able to convince enough fellow members the decision will be passed with rough consensus of 80%. When their viewpoint makes enough sense to fellow members, critical mass must be found to reach a new compromise. All members joining the discussion must strive to reach the rough consensus, to build the compromise.
 
 ### Meeting 3
 

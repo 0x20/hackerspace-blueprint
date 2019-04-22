@@ -5,7 +5,7 @@
 First install the build tools.
 
 ```bash
-sudo apt install pandoc texlive-plain-generic texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra
+sudo apt install pandoc texlive-plain-generic texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra texlive-extra-utils
 ```
 
 Generate the print version using `pandoc`.
