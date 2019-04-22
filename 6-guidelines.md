@@ -59,7 +59,7 @@ If you damage or lose space property, you have to notice the community immediate
 
 #### Taking space property out of the space
 
-Only members are allowed to take space property out of the space. If you take space property out of the space, you have to notify the community immediately, for example in the Changelog or Main channel on Mattermost. If a someone disagrees with you taking it out of the space, make that person happy or put it back.
+Only members are allowed to take space property out of the space. If you take space property out of the space, you have to notify the community immediately, for example in the Changelog or Main channel on Mattermost. If someone disagrees with you taking it out of the space, make that person happy or put it back.
 
 ## Space maintenance
 
