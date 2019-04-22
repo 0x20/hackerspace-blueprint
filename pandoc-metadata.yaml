@@ -15,6 +15,7 @@ toc-title: "Table of Contents"
 #
 # Options specific to Latex (PDF version)
 #
+book: true
 footer-left: "Hackerspace Gent"
 links-as-notes: yes
 # This is an inline yaml metadata code block that specifies custom headers and footers
