@@ -2,13 +2,13 @@
 
 ## What should I discuss on a meeting?
 
-Since the hackerspace is mainly a Do-ocracy, there is actually very little that __needs__ to be discussed on a meeting. Do you want something done? Well then, don't talk about it, just do it. Moreover, meetings only have limited power since, even if everyone in the meeting agrees that "A" is something great to do, it will only be done if someone actually does it afterwards. **Therefore, meetings should be primarily focused on convincing people to do something or asking feedback on what you want to do instead of on deciding what should be done.**
+Since the hackerspace is mainly a do-ocracy, there is actually very little that __needs__ to be discussed on a meeting. Do you want something done? Well then, don't talk about it, just do it. Moreover, meetings only have limited power since, even if everyone in the meeting agrees that "A" is something great to do, it will only be done if someone actually does it afterwards. **Therefore, meetings should be primarily focused on convincing people to do something or asking feedback on what you want to do instead of on deciding what should be done.**
 
 Things you should discuss on a meeting:
 
 * Before using money of the hackerspace, discuss it on a meeting and make sure the board knows about it.
 * When organizing big events in the space.
-* If you want to do something that affects a lot of people in the space, and it's hard to reverse it when people complain.
+* If you want to do something that affects a lot of people in the space, and is hard to reverse when people complain.
 
 Things you can discuss on a meeting:
 
@@ -29,11 +29,11 @@ Any member can schedule a meeting.
 
 During meetings, the normal decision making model is "provided nobody says no": you discuss a topic and propose an action during a meeting. You ask if anyone objects to that action. If nobody objects, you have the permission to do that thing. When a decision has been made, you need to write down the exact decision in the meeting notes.
 
-Note that this intentionally favors the "yes" vote: there is a slight barrier to speak up and say "no". The thinking behind it is that we want to make the barrier to "doing" as low as possible. We only want people to voice their opinions when they think it's really important or when they are explicitly asked.
+Note that this intentionally favors the "yes" vote: there is a slight barrier to speak up and say "no". The thinking behind this is that we want to make the barrier to "doing" as low as possible. We only want people to voice their opinions when they think it's really important or when they are explicitly asked.
 
 ## Why not regular consensus?
 
-[Consensus-based decision making](https://en.wikipedia.org/wiki/Consensus_decision-making) aims to involve as many stakeholders as possible in a decision. This is the exact opposite from our system, where we want to involve as few stakeholders as possible in a decision, in order to lower the barrier to "doing" as much as possible. Do-ocracy gives as much power as possible to the person doing it, instead of to the persons who have an opinion on it. When you want to do something, you have to make sure that nobody will hate it, instead of making sure that everyone is pleased.
+[Consensus-based decision making](https://en.wikipedia.org/wiki/Consensus_decision-making) aims to involve as many stakeholders as possible in a decision. This is the exact opposite from our system, where we want to involve as few stakeholders as possible in a decision, in order to lower the barrier to "doing" as much as possible. Do-ocracy gives as much power as possible to the person doing it, instead of to the people who have an opinion on it. When you want to do something, you have to make sure that nobody will hate it, instead of making sure that everyone is pleased.
 
 Having as many people as possible involved in a discussion encourages [Bikeshedding](http://bikeshed.com/): long useless discussion about trivial details that don't really matter in the bigger picture. This idea stems from Parkinson's [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality), which shows that you can easily get approval for building a multi-million dollar atomic power plant, but if you want to build a bike shed, you will be tangled up in endless discussions about the color of the shed. This is because a power plant is so complicated that people cannot grasp it, while anyone can build a bike shed over the weekend so everyone can comment on it. People enjoy commenting on it because they want to be part of the discussion and they want to add a touch and show personal contribution. Although for the people voicing their opinion this might be enjoyable, it easily kills the passion of the person who wants to get things done, and it slows everything down to a crawl.
 
@@ -79,12 +79,12 @@ The topic is put on the agenda of the meeting and is announced on the Mattermost
 
 ### Meeting 1
 
-The topic is discussed in group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because consensus comes with characteristics that benefit the hackerspace:
+The topic is discussed in the group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because it comes with characteristics that benefit the hackerspace:
 
 * encourages discussion
-* forced to listen to opposing ideas that can give new insights
-* they can bring smarter compromises
-* <http://en.wikipedia.org/wiki/Consensus>
+* forces listening to opposing ideas that can give new insights
+* can bring smarter compromises
+* <https://en.wikipedia.org/wiki/Consensus>
 
 The required 100% consensus also means that a very small minority can block a decision. That is a desired feature but it comes with a responsibility. When a small minority or even an individual feels very strongly that a proposed decision is not correct they have the option to block a decision. This does not stop a decision completely because only the first meeting requires a full consensus. This means that the opposers need to use the time between the first and the second meeting to convince their fellow members of their viewpoint.
 
@@ -102,11 +102,11 @@ The point system is a **last-resort** option. This should not be the general pro
 
 **The point system has a few basic rules:**
 
-* Each voter has a certain number of points that he can distribute over the different proposals.
+* Each voter has a certain number of points that they can distribute over the different proposals.
 * The proposal with the most points wins.
 * In case of tie; re-vote.
-* **Number of points per voter  =** `(#_of_options * 2 ) + 1`
-* Results should be given to the group in binary format: what proposal won and what lost. This is to strengthen the support of the decision.
+* **Number of points per voter  =** `(#_of_proposals * 2 ) + 1`
+* Results should be given to the group in binary format: which proposal won and which lost. This is to strengthen the support of the decision.
 
 "No decision" is worse than a "bad decision". Conflict has to be solved eventually. That is why there is this last-resort option. However, we want to discourage people from blocking consensus. The point system has the following advantages:
 
@@ -132,7 +132,7 @@ In the point system, every voter gets some points that they can distribute betwe
 | B                   | 1                     | 4                    |
 | TOTAL               | 24                    | **26**               |
 
-As you can see in this example, a less-extreme proposal that, on first sight, has the minority of the votes, can still win. This gives the minority the incentive to come up with moderate ideas that everyone can agree with.
+As you can see in this example, a less extreme proposal that, on first sight, has the minority of the votes, can still win. This gives the minority the incentive to come up with moderate ideas that everyone can agree with.
 
 | Vote without points        |  Points to A                   | Points to B    |
 | -------------------------- |:------------------------------:| --------------:|
