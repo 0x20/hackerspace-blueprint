@@ -8,7 +8,7 @@ We want you to be a part of it, but you need to do three things.
 * be excellent to others,
 * and don't be an asshole.
 
-People have different realities, values and morals, resulting in different ideas for how to do these three things. To get around these differing realities use empathy, not cunning. Continuously convincing others to see things your way will get you what you want in the short run but can breed resentment in the long run. Going out of your way to understand and to accommodate for the other person's point of view strengthens the community itself. The guidelines below describe what the hackerspace thinks it means to use common sense, be excellent to others, and not be an asshole.
+People have different realities, values and morals, resulting in different ideas for how to do these three things. To get around these differing realities use empathy, not cunning. Continuously convincing others to see things your way will get you what you want in the short run but can breed resentment in the long run. Going out of your way to understand and to accommodate the other person's point of view strengthens the community itself. The guidelines below describe what the hackerspace thinks it means to use common sense, be excellent to others, and not be an asshole.
 
 First and foremost, [the golden rule](http://en.wikipedia.org/wiki/Golden_Rule): treat others the way you want to be treated.
 
