@@ -10,7 +10,7 @@
 Why this process?
 
 * Step #1 ensures that two people know and trust the applicant enough to vouch for them. It als ensures that the "culture" of the space gets transferred to new members.
-* Step #2 ensures that there is some time between the applicant first arriving in the space and the applicant being voted in.
+* Step #2 ensures that the applicant understands how meetings are run and that there is some time between the applicant first arriving in the space and the applicant being voted in.
 * Step #3 ensures that there is enough support for the applicant. The meeting decision model is used for the same reasons as to why it's used for meetings: a bad solution is better than no solution.
 * Step #4 gives the new member an incentive to pay asap.
 
