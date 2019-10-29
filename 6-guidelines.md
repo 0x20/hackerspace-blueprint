@@ -46,7 +46,7 @@ There is a clear distinction between "personal" and "space" projects. Keep this 
 
 * When you are using tools/infrastructure from the space, you are effectively borrowing that item from the community.
 * Return borrowed items as soon as possible in the same or better condition than when borrowed.
-* So when using something, clean it afterwards and put it back in it's place.
+* So when using something, clean it afterwards and put it back in its place.
 * If you are not trained to use tool X, don't use tool X but ask an expert to teach you first.
 * If you use one of the public workstations, please shut it off when you are done.
 * If you use the printer, please deposit some cash to pay for consumables.
@@ -99,5 +99,5 @@ People are trying to concentrate in here so:
 ### Network/security
 
 * Just leave other people's stuff alone, don't post "*funny*" social network status updates on unattended logged in computers.
-* Don't sniff the network, no ssl-strip / rogue dhcp / random script-kiddo stuff. It been done before. It's lame.
+* Don't sniff the network, no ssl-strip / rogue dhcp / random script-kiddo stuff. It's been done before. It's lame.
 * Don't congest the network with (legal) torrenting, just behave nicely, so we don't have to write an AUP.
