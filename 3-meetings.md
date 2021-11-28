@@ -21,9 +21,13 @@ Things you can discuss on a meeting:
 
 Any member can schedule a meeting.
 
-1. Create a pad for the meeting topics and the meeting notes.
-2. Pick a date (preferably not during the social evening).
-3. Put the meeting in the calendar with a link to the meeting notes, announce it in the main channel and put a link in the changelog.
+1. Create a pad for the meeting topics and the meeting notes. Use the pad of the previous meeting to see what it should look like.
+1. Pick a date (preferably not during the social evening).
+1. Announce the meeting in the Main channel and in the Changelog **at least a week in advance**. The announcement should include:
+   * The url to the pad for that meeting
+   * The date of the meeting in ISO 8601 format (2021-11-14) and the time of the meeting in 24-hour format local time (20:00).
+
+Important and possibly controversial topics such as membership applications need to be on the pad at least a week in advance. **If you add such a topic after the meeting is announced, you need to add a new entry to the Changelog.**
 
 ## How do we make a decision during a meeting?
 
