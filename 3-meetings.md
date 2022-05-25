@@ -146,7 +146,7 @@ As you can see in this example, a less extreme proposal that, on first sight, ha
 | A                          | 4                              | 1              |
 | A                          | 5                              | 0              |
 | A                          | 5                              | 0              |
-| B                          | 4                              | 1              |
+| A                          | 4                              | 1              |
 | B                          | 0                              | 5              |
 | B                          | 0                              | 5              |
 | B                          | 0                              | 5              |
