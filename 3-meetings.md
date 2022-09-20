@@ -56,7 +56,7 @@ The statutes dictate the following.
 You can find the latest version of the statutes in the Government gazette (staatsblad) (Dutch-language).
 
 1. Go to <http://www.ejustice.just.fgov.be/tsv/tsvn.htm>
-2. Fill in `0x20` in the "Benaming" field and press the "Opzoeking" button. Now you should see a number next to the "opzoeking" button, this is how many search results there are. *"0x20" is the short name for "Hackerspace Gent", previously "Whitespace".*
+2. Fill in `0x20` in the "Naam" field and press the "Opzoeking" button. Now you should see a number next to the "Naam" field, this is how many search results there are, press "Lijst" to see them. *"0x20" is the short name for "Hackerspace Gent", previously "Whitespace".*
 3. Press the "lijst" button to see all the search results.
 
 More important information from the statutes.
