@@ -2,13 +2,24 @@
 
 ## How do I become a member?
 
-1. Fill in [the membership application form](https://wiki.hackerspace.gent/Membership_form) and get two people to sign as sponsors. They will be responsible for making sure you get settled nicely, that you understand how the hackerspace works, and know how you can participate.
+- Potential member joins mattermost
+- Potential member visits the space and find two sponsors to broadcast their sponsorship on the @changelog channel.
+- The new membership application is announced in ~Changelog, by a board member or a quicker member.
+- If other members have objections, they may express them in @spacemembers during the 7 days following the board's announcement.
+- At least 7 days after the announcement, the board schedules a meeting for the new member to be inducted.. If there were objections, the board makes a reasonable effort to ensure that those members can be present.
+- At the announced meeting, two things occur:
+  1. If there were objections, the members with objections have a chance to lay out their concerns. Other members may agree or disagree with these concerns. Then the potential member may speak in their defense, if they so desire. Then the board makes a decision on whether to accept the member
+  2. The new member is granted full membership, they receive instructions on transferring their membership fees (and, of course, make their first payment), and receive physical access to the space
+
+The board may decide that deviations from these steps are still acceptable.
+
+1. Fill in the membership application form and get two people to sign as sponsors. They will be responsible for making sure you get settled nicely, that you understand how the hackerspace works, and know how you can participate.
 2. Announce your membership application on the Changelog. Include in the message who your sponsors are.
-3. Attend a meeting and present your application. On this meeting you announce you want to become a member and who your sponsors are. If you want, you can talk a bit about why you're interested in the space. *Note: we won't discuss your membership further on this meeting and will not make any decision about it.*
+3. Attend a meeting and present your application. On this meeting you announce you want to become a member and who your sponsors are. If you want, you can talk a bit about why you're interested in the space. Note: we won't discuss your membership further on this meeting and will not make any decision about it.
 4. On a next meeting, your membership will be decided upon. It's useful to have you present at that meeting, but this is not a requirement. As a bonus for coming to the meeting, membership is often the first thing to be decided on a meeting. When you get voted in, you can join the rest of the meeting as a member! Membership decisions at a meeting follow the same process as other meeting decisions. See Chapter 3 for more info.
 5. Create an automatic bank transfer to transfer the membership fee each month. You will get your key after you made your first payment.
 
-Why this process?
+### Why this process?
 
 * Step #1 ensures that two people know and trust the applicant enough to vouch for them. It als ensures that the "culture" of the space gets transferred to new members.
 * Step #2 ensures everyone knows you want to become a member.
@@ -16,26 +27,24 @@ Why this process?
 * Step #4 ensures that there is enough support for the applicant. The meeting decision model is used for the same reasons as to why it's used for meetings: a bad solution is better than no solution.
 * Step #5 gives the new member an incentive to pay asap.
 
-*Note: If you want more context, see the `HTH_2018-11-17_membership.md` document in "the legacy" for more discussion on the membership procedure.*
+Note: If you want more context, see the HTH_2018-11-17_membership.md document in "the legacy" for more discussion on the membership procedure.
 
 ## What are the responsibilities of a member?
 
-*The members create and maintain the hacker environment.*
+The members create and maintain the hacker environment.
 
 When a conflict/problem can not be resolved between individuals, via do-ocracy or when it impacts the group, a group decision is required. Any member can request that a decision is made on a meeting instead of by do-ocracy or individual members.
 
 The members should do the following things as a group.
-
 * Create and patch the hackerspace blueprint.
 * Solve problems in the hackerspace when do-ocracy cannot fix them.
 * Electing the board during a General Assembly.
 
-*The individuals have to be excellent.*
-
+The individuals have to be excellent.
 * Organize workshops, events, lectures.
 * Follow do-ocracy.
 * Actively try to fix problems.
-* Maintain personal safety and that of others.
+* Maintain personal safety and that of others. 
 * Follow and enforce the Guidelines.
 
 ## Non-members

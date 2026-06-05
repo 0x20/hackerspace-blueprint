@@ -52,6 +52,10 @@ In general, if an action is irreversible, do-ocracy does not apply and you shoul
 * **Democracy** - In a democracy, everyone has a say in what gets done. In a do-ocracy, everyone does jobs that they think need to be done, **without everyone’s input.**
 * **Meritocracy** - In a meritocracy, the most qualified people for a job are selected for that job. In a do-ocracy, whoever does the job gets it, no matter how well they’re qualified.
 
+## Loopholes
+
+The goal of the do-ocracy and these guidelines is to create an awesome community. The do-ocracy gives you a lot of freedom, but you need to use it wisely. People who try to exploit loopholes in this system to do things that damage the community cannot handle the freedom of a do-ocracy and will be pushed out very quickly. Do not read these guidelines like a lawbook, but read it like a cookbook. It doesn't matter if you use a bit more sugar than the recipe says, as long as your goal is to make the cake better.
+
 ## Further reading
 
 * The CommunityWiki has [a thorough explanation of do-ocracy](http://www.communitywiki.org/en/DoOcracy).

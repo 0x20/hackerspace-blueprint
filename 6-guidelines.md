@@ -1,85 +1,8 @@
-# 6. Guidelines
+# 6. Conflict resolution
 
-The hackerspace is a shared resource created *by* the community, *for* the community. It only exists because people think it's valuable enough to nourish it. Without the community, the hackerspace would simply not exist, so it is very important that we as a community collaborate and keep it fun for everyone.
+## How to avoid conflict
 
-We want you to be a part of it, but you need to do three things.
-
-* Use common sense,
-* be excellent to others,
-* and don't be an asshole.
-
-People have different realities, values and morals, resulting in different ideas for how to do these three things. To get around these differing realities use empathy, not cunning. Continuously convincing others to see things your way will get you what you want in the short run but can breed resentment in the long run. Going out of your way to understand and to accommodate the other person's point of view strengthens the community itself. The guidelines below describe what the hackerspace thinks it means to use common sense, be excellent to others, and not be an asshole.
-
-First and foremost, [the golden rule](http://en.wikipedia.org/wiki/Golden_Rule): treat others the way you want to be treated.
-
-## Loopholes
-
-The goal of the do-ocracy and these guidelines is to create an awesome community. The do-ocracy gives you a lot of freedom, but you need to use it wisely. People who try to exploit loopholes in this system to do things that damage the community cannot handle the freedom of a do-ocracy and will be pushed out very quickly. Do not read these guidelines like a lawbook, but read it like a cookbook. It doesn't matter if you use a bit more sugar than the recipe says, as long as your goal is to make the cake better.
-
-## Projects
-
-There is a clear distinction between "personal" and "space" projects. Keep this in mind so you know what to expect and what people can expect of you.
-
-### Personal projects
-
-* You have full control over how to do the project.
-* The project stuff/material is considered your personal property.
-* You decide what happens to the end-result of the project.
-
-### Space projects
-
-* The do-ocracy decides how to do the project.
-* The project stuff/material is considered space property.
-* The do-ocracy decides what happens to the end result of the project.
-
-## Property and tools
-
-### Personal property
-
-* Only members are allowed to have personal property in the space. You get one box (the membership box) where you can leave your stuff. If you need more space for your projects, bring it up in a group meeting.
-* If you break personal property of another member, you have to fully reimburse the member's losses.
-* All personal property that is not in a members box has to be labeled (including tools and machines).
-
-### Space property
-
-#### Using space property
-
-* When you are using tools/infrastructure from the space, you are effectively borrowing that item from the community.
-* Return borrowed items as soon as possible in the same or better condition than when borrowed.
-* So when using something, clean it afterwards and put it back in its place.
-* If you are not trained to use tool X, don't use tool X but ask an expert to teach you first.
-* If you use one of the public workstations, please shut it off when you are done.
-* If you use the printer, please deposit some cash to pay for consumables.
-
-#### Damaging or losing space property
-
-If you damage or lose space property, you have to notice the community immediately in the Changelog or Main channel on mattermost. Explain what happened and if/how you will fix it.
-
-#### Taking space property out of the space
-
-Only members are allowed to take space property out of the space. If you take space property out of the space, you have to notify the community immediately, for example in the Changelog or Main channel on Mattermost. If someone disagrees with you taking it out of the space, make that person happy or put it back.
-
-## Space maintenance
-
-### Cleaning
-
-* Keep the dishes clean: when using the dishes, clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder.
-* Keep the desks clean, feel free to use the desk space for your stuff, you can leave your stuff on the desk when you just 'pop out for some food', but leave a note stating when you'll be back. _Do Not_ leave it there until the next morning.
-* Remove empty packaging, from food or beverages.
-* Every once in a while there will be a cleaning day in the space, as a good upstanding member of the community you should attend one of these at least once quarterly. Many hands make light work.
-
-### Exit space
-
-* If you are the last person to leave the space, it's your responsibility to clean up. If you see people leaving, please alert them if they have left their trash in the space.
-* Switch off all power consuming things
-* Close the roof
-* Read and follow the checklist at the door.
-
-### Throwing things away
-
-* Some things that seem a useless waste of space to you might be very valuable to other people. When you throw things away, you have to let the community know and give them enough time to object.
-
-## Social behavior
+### Social behavior
 
 * When in doubt if you're doing the right thing, you probably aren't.
 * Share your love and passion, but respect people's boundaries.
@@ -98,6 +21,17 @@ People are trying to concentrate in here so:
 
 ### Network/security
 
-* Just leave other people's stuff alone, don't post "*funny*" social network status updates on unattended logged in computers.
+* Just leave other people's stuff alone, don't post "funny" social network status updates on unattended logged in computers.
 * Don't sniff the network, no ssl-strip / rogue dhcp / random script-kiddo stuff. It's been done before. It's lame.
 * Don't congest the network with (legal) torrenting, just behave nicely, so we don't have to write an AUP.
+
+## How conflict gets resolved
+
+If a conflict gets out of hand the board will be forced to resolve the issue.
+
+* The board is the shepherd of the blueprint
+* In case of conflict the first approach is to let the group work it out, if this fails or takes too long the board can step in and resolve the issue
+
+Conflicts are inevitable in any group; the challenge is in resolving them. Unfortunately, there is no procedure that we can put in stone and guarantee that all conflicts are resolved to everybody's satisfaction. Instead, we have a simple rule: if you find yourself in a conflict, try to resolve it yourself. Perhaps you might have a [Private Talk](https://wiki.hackerspaces.org/The_Private_Talk_Pattern). If this fails, perhaps find a mediator to help you resolve it.
+
+However, if the conflict gets out of hand the board will be forced to resolve the issue. In this case, it must be a very serious issue indeed, and therefore the board will likely respond by temporarily banning one or both members involved, at their sole discretion. Obviously, this is not an outcome that anybody wants, so finding resolutions on your own will be key.
