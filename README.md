@@ -4,7 +4,7 @@ A hackerspace is a physical place, run by people interested in various aspects o
 
 We are a breeding ground for awesome ideas. We provide a nest where those ideas can become reality. We operate by collaboration and openness. We allow people to fail, and to try again.
 
-# We learn from our failures
+## We learn from our failures
 
 We created our very own hackerspace in Ghent. We had two rules: be excellent to each other and decide everything by consensus. We thought normal human interaction and common sense would solve all problems. Sadly, this was not true: internal conflict almost killed our hackerspace. Instead of giving up, we decided to "Hack the Hackerspace"; we organized a number of workshops to figure out what went wrong and how to build a better hackerspace. We found that the problems could all be traced to the following root causes:
 
