@@ -31,3 +31,23 @@ Section 5 explains how you become a **member** of the space.
 Every organization has a number of unspoken guidelines of how you should behave. We have written down some of ours in Section 6 in order to make it easier for people to get a sense of what to do in certain situations. These **guidelines** are not meant to be strict rules, but they give an overview of what is good and bad behavior in the space.
 
 Because every good idea that was once written down has been misinterpreted, we include the information that helped us create this system and the guidelines. We call it **the legacy**. It is a collection of discussions, articles, research and books that we used to create the hackerspace blueprint. It gives more context about why the system is the way it is. The legacy should by used as a "cipher" to interpret the system and the guidelines better and to explain the rationale behind them.
+
+<!--
+  Chapter index for readers browsing on GitHub. Written as raw HTML on
+  purpose: pandoc drops it from the LaTeX/PDF build (which has its own
+  table of contents), so it only shows up here on the repository page.
+-->
+<h2>Read the blueprint</h2>
+
+<ol>
+  <li><a href="#1-overview">Overview</a></li>
+  <li><a href="2-do-ocracy.md">Do-ocracy</a></li>
+  <li><a href="3-meetings.md">Meetings</a></li>
+  <li><a href="4-the-board.md">The Board</a></li>
+  <li><a href="5-membership.md">Membership</a></li>
+  <li><a href="6-guidelines.md">Conflict resolution</a></li>
+  <li><a href="7-projects.md">Projects, property and space maintenance</a></li>
+  <li><a href="8-acknowledgements.md">Acknowledgements</a></li>
+</ol>
+
+<p>The <a href="legacy/">legacy</a> folder collects the discussions, articles and research behind the system.</p>
