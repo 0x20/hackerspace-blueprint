@@ -54,9 +54,12 @@ jobs:
             --include-after-body=include-back.tex
 
           # Printable booklet body (imposed 2-up); the cover is committed as
-          # hackerspace-blueprint-booklet-cover.pdf
+          # hackerspace-blueprint-booklet-cover.pdf. The classic `pdfbook` is
+          # just pdfjam with these options, and pdfjam ships in apt's TeX Live.
           numpages="$(pdfinfo hackerspace-blueprint.pdf | awk '/^Pages/ { print $2 }')"
-          pdfbook hackerspace-blueprint.pdf "2-$((numpages - 2))" -o hackerspace-blueprint-booklet-body.pdf
+          pdfjam hackerspace-blueprint.pdf "2-$((numpages - 2))" \
+            --booklet true --landscape \
+            -o hackerspace-blueprint-booklet-body.pdf
 
       - name: Upload build artifacts
         uses: actions/upload-artifact@v4
