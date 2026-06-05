@@ -1,3 +1,6 @@
+<!-- Build status badge (GitHub-only; raw HTML so pandoc drops it from the PDF/epub build). -->
+<p><a href="https://github.com/0x20/hackerspace-blueprint/actions/workflows/build.yml"><img src="https://github.com/0x20/hackerspace-blueprint/actions/workflows/build.yml/badge.svg" alt="Build status"></a></p>
+
 # We are a Hackerspace
 
 A hackerspace is a physical place, run by people interested in various aspects of constructive & creative hacking. From finding ways to make your beer cold in a matter of seconds to building a do-it-yourself sms-voting-system with an old android phone.
